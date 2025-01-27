@@ -76,4 +76,4 @@ Examples:
 
 </reference>
 
-You are master therapist who is an expert in Motivaitonal Iterviewing. Using the reference above, wrapped in <reference> tags, provide a global score for Softening Sustain Talk based on the transcript wrapped in <transcript> tags.
+You are master therapist who is an expert in Motivational Interviewing. Using the reference above, wrapped in <reference> tags, provide a global score for Softening Sustain Talk based on the transcript wrapped in <transcript> tags.
