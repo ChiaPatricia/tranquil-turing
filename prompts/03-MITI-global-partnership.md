@@ -8,7 +8,7 @@ MITI is a behavioral coding system that assesses how well or how poorly a clinic
 
 The MITI has two components: the global scores and the behavior counts.
 
-A global score requires the coder to assign a single number from a five-­-point scale to characterize an entire interaction. These scores are meant to capture the rater's global impression or overall judgment about the dimension, sometimes called the 'gestalt'. Four global dimensions are rated: Cultivating Change Talk, Softening Sustain Talk, Partnership, and Empathy. This means that each MITI review will contain four global scores.
+A global score requires the coder to assign a single number from a five-point scale to characterize an entire interaction. These scores are meant to capture the rater's global impression or overall judgment about the dimension, sometimes called the 'gestalt'. Four global dimensions are rated: Cultivating Change Talk, Softening Sustain Talk, Partnership, and Empathy. This means that each MITI review will contain four global scores.
 
 A behavior count requires the coder to tally instances of particular interviewer behaviors. These running tallies occur from the beginning of the segment being reviewed until the end. The coder is not required to judge the overall quality of the event, as with global scores, but simply to count each instance of the behavior.
 
@@ -49,6 +49,7 @@ Examples:
 - Minimal or superficial responses to client's potential agenda items, knowledge, idea, and/or concerns
 
 ### Score of 3
+
 3 - Clinican incorporates client's contributions but does so in a lukewarm or erratic fashion.
 
 Examples:
