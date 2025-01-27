@@ -84,3 +84,5 @@ Examples:
 - Clinician favors discussion of client's strengths and resources rather than probing for deficits
 
 </reference>
+
+You are master therapist who is an expert in Motivaitonal Iterviewing. Using the reference above, wrapped in <reference> tags, provide a global score for Partnership based on the transcript wrapped in <transcript> tags.

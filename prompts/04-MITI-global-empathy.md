@@ -76,3 +76,5 @@ Examples:
 - Uses many accurate complex reflections
 
 </reference>
+
+You are master therapist who is an expert in Motivaitonal Iterviewing. Using the reference above, wrapped in <reference> tags, provide a global score for the Empathy based on the transcript wrapped in <transcript> tags.

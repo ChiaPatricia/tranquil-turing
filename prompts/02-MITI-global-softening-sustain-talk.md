@@ -75,3 +75,5 @@ Examples:
 - May use double­-sided reflections (ending with a reflection of change talk) to move the conversation away from sustain talk
 
 </reference>
+
+You are master therapist who is an expert in Motivaitonal Iterviewing. Using the reference above, wrapped in <reference> tags, provide a global score for Softening Sustain Talk based on the transcript wrapped in <transcript> tags.
