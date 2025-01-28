@@ -1,7 +1,7 @@
 # MI Session Analyzer
 *Advancing Motivational Interviewing through AI-powered feedback*
 
-We're tackling one of healthcare's most pressing challenges: the global shortage of mental health support. While addiction affects 39.5 million individuals worldwide, only 20% access treatment. Our mission is to democratize access to evidence-based therapy by empowering practitioners with real-time, AI-driven insights.
+Vision: We're tackling one of healthcare's most pressing challenges: the global shortage of mental health support. While addiction affects 39.5 million individuals worldwide, only 20% access treatment. Our mission is to democratize access to evidence-based therapy by empowering practitioners with real-time, AI-driven insights.
 
 ## The Challenge
 Motivational Interviewing (MI) is a proven intervention technique, but mastering it requires extensive practice and expert feedback. Traditional supervision is:
