@@ -1,0 +1,52 @@
+Sheet Number: 7
+Prompt Number: 1
+==================================================
+Based on the transcript provided and the MITI Global Score descriptions for Softening Sustain Talk, I would give this therapist a global score of **4**.
+
+Here's my reasoning:
+
+**Analysis of the Therapist's Behavior:**
+
+* **Acknowledges Sustain Talk but Doesn't Dwell:** The therapist acknowledges the client's sustain talk about exercise being unpleasant and a burden.  Examples include:
+    * *Client:* "And I’m finding every excuse in the world to not go take a walk."
+    * *Therapist:* "So you know what you should be doing, but it’s not so easy to do it."
+    * *Client:* "It’s the exercise I’m really stumbling over badly."
+    * *Therapist:* "Right."
+    * *Client:* "I don’t like it!"
+    * *Therapist:* "Right."
+    * *Client:* "So the thought of taking exercise is just not a pleasant one for you."
+    * *Therapist:* "Right. So the thought of taking exercise is just not a pleasant one for you."
+
+    The therapist uses reflections to acknowledge these feelings, which is MI-consistent and builds empathy. However, the therapist doesn't linger excessively on these statements or probe deeply into *why* exercise is unpleasant.
+
+* **Shifts Focus to Change Talk and Solutions:**  After acknowledging the sustain talk, the therapist consistently attempts to shift the conversation towards change talk and potential solutions. Examples include:
+    * *Therapist:* "OK, and that’s something we’ll return to in a moment. What I want to do is first of all just lay out for the two of us what we could be talking about today, OK, and then we’ll make a decision." - This is an early attempt to structure and direct the conversation.
+    * *Therapist:* "Have you got a sense, if you think about those things, which of them you’d most like to talk about? What would you find helpful?" -  Directing towards client's priorities and potential change areas.
+    * *Client:* "I would find the most helpful, how do I stop finding all the excuses to not go exercise?" - Client explicitly states a change goal.
+    * *Therapist:* "So you feel that it’s something that it’s important for you to do" -  Evoking importance/change talk.
+    * *Therapist:* "Yeah. So if you could find more pleasant thoughts about exercise, or if you could find some form of exercise that you would enjoy, you might be prepared to consider it" - Exploring possibilities for change.
+    * *Therapist:* "In what way? How would this improve your life? How do you see that?" - Evoking reasons for change (change talk).
+    * *Therapist:* "And I wonder what you think might be just the first small step that could help you through that barrier." -  Focusing on solutions and manageable steps.
+    * *Therapist:* "Yep. It sounds like that’s quite a trap for you in a way, isn’t it, the way you think about it. And can you think of a way, a more positive way of looking at it that will take you out of that trap? What could you say to yourself?" -  Encouraging problem-solving and positive reframing.
+
+* **Does Not Explicitly Ask for Reasons Not to Change:** The therapist does not ask questions that would directly solicit more sustain talk, such as "What are all the reasons why exercise is difficult for you?" or "Why do you think you haven't been exercising?".
+
+* **Minimal Curiosity about Reasons to Maintain Status Quo (Beyond Initial Acknowledgment):** While the therapist acknowledges the client's dislike of exercise, they don't delve deeply into the benefits of *not* exercising or maintaining the status quo. The focus quickly shifts to overcoming the barrier.
+
+**Justification for Score of 4 based on MITI Description:**
+
+A score of **4** is described as: "Clinician typically avoids an emphasis on client language favoring the status quo."
+
+* **"Does not explicitly ask for reasons not to change"**:  This is clearly demonstrated in the transcript.
+* **"Minimal attention to sustain talk when it occurs"**: While the therapist *does* attend to sustain talk through reflections, it is minimal in the sense that it's not prolonged or deeply explored. The therapist quickly moves on.
+* **"Does not seek elaboration of sustain talk"**: The therapist doesn't ask follow-up questions to deepen the sustain talk. For example, after the client says "I don’t like it!", the therapist simply says "Right." and moves on to other questions.
+* **"Lack of curiosity and focus on client's reasons to maintain the status quo"**: The therapist's curiosity is directed towards understanding the *barrier* to change and finding *solutions*, rather than deeply exploring the client's reasons for *not* changing.
+* **"Does not linger in discussions about barriers to change"**:  While barriers are acknowledged, the therapist quickly pivots to exploring solutions and small steps to overcome them.
+
+**Why not a Score of 5?**
+
+A score of **5** requires "a marked and consistent effort to decrease the depth, strength, or momentum of the client's language in favor of the status quo."  While the therapist is good at shifting away from sustain talk, there isn't strong evidence of *actively decreasing* its depth or strength using techniques like double-sided reflections ending in change talk or structured tasks specifically designed to reframe sustain talk. The therapist is more focused on moving *towards* change talk rather than directly *countering* sustain talk.
+
+**Conclusion:**
+
+The therapist in this transcript demonstrates good MI skills in Softening Sustain Talk. They acknowledge and reflect sustain talk to build rapport and understanding, but they skillfully avoid dwelling on it and consistently redirect the conversation towards change talk and potential solutions. This pattern of behavior aligns well with a global score of **4** for Softening Sustain Talk.

@@ -1,0 +1,47 @@
+Sheet Number: 8
+Prompt Number: 1
+==================================================
+```json
+{
+  "Softening Sustain Talk": 2
+}
+```
+
+**Feedback on Softening Sustain Talk:**
+
+Based on the transcript provided, the global score for Softening Sustain Talk is **2**. This indicates that the clinician **usually chooses to explore, focus on, or respond to the client’s reasons to maintain the status quo.**
+
+Here's a breakdown of why a score of 2 is appropriate and suggestions for improvement:
+
+**Strengths:**
+
+* **Initial Exploration of Client's Perspective:** The therapist does attempt to understand the client's perspective by asking "Tell me why you don’t want to go." This is important for building rapport and understanding the client's resistance.
+* **Reflection of Sustain Talk:** The therapist reflects back some of the client's sustain talk, such as "Oh right. I get it. So as far as you’re concerned, it’s OK to hit the child..." This shows the client that they are being heard.
+
+**Areas for Improvement:**
+
+* **Deepening Sustain Talk:**  While exploring the client's reasons for not wanting to attend classes is important initially, the therapist spends a significant portion of the conversation dwelling on and even deepening the client's sustain talk. For example, asking "And then how do you see the link between being a good Dad and hitting your child like that?" directly invites the client to further justify their position and argue for the status quo.
+* **Missed Opportunities to Shift Focus:**  There are several instances where the client expresses sustain talk, and the therapist continues to engage with it rather than strategically shifting the focus. For example, after the client says "Because I think I do . . I think I’m a good Dad already. I don’t have a problem with the way I’ve been doing things," the therapist could have responded in a way that acknowledges this but gently pivots towards exploring potential benefits of change or areas where the client *might* see room for improvement.
+* **Lack of Strategies to Soften Sustain Talk:** The therapist does not employ techniques to minimize or redirect sustain talk. There's no evidence of:
+    * **Double-sided reflections ending with change talk:**  Reflections consistently focus on the sustain talk without explicitly linking to or highlighting any potential change talk (even if subtle).
+    * **Strategic silence after sustain talk:**  Allowing silence after sustain talk can sometimes reduce its momentum.
+    * **Shifting focus to values or goals:**  The conversation remains focused on the incident and the client's justifications rather than exploring broader values or goals related to parenting that might connect with the parenting program.
+    * **Affirming the client while not agreeing with the sustain talk:**  Affirmations are absent, which could help build rapport without validating the sustain talk itself.
+
+**Recommendations for Skill Development:**
+
+* **Minimize Exploration of Sustain Talk:** After an initial brief exploration to understand the client's resistance, consciously shift away from directly asking for or elaborating on reasons *not* to change.
+* **Practice Strategic Responding to Sustain Talk:**
+    * **Simple Reflection:** Acknowledge the sustain talk briefly and neutrally, then pivot.  For example, if the client says "I don’t see where the problem is," a simple reflection could be "You're not seeing a problem right now," and then follow up with a question aimed at change talk, such as "What would need to happen for you to feel like this *could* be helpful?"
+    * **Shifting Focus:**  When sustain talk arises, redirect the conversation to a different topic, such as the client's values as a parent, their hopes for their child, or what a positive parent-child relationship looks like to them.
+    * **Double-Sided Reflection (with caution in early stages of resistance):** If there's any hint of ambivalence, use double-sided reflections to link sustain talk with emerging change talk. However, in this transcript, change talk is minimal, so focusing on evoking change talk directly might be more beneficial first.
+* **Focus on Evoking Change Talk:**  Actively employ strategies to elicit change talk, such as:
+    * **Open-ended questions about:**
+        * Disadvantages of the status quo (gently explored, not in a confrontational way)
+        * Advantages of change
+        * Optimism about change
+        * Intention to change
+    * **Reflecting change talk when it emerges, even if it's weak.**
+    * **Using decisional balance exercises (if appropriate for the context and client readiness).**
+
+By consciously minimizing the focus on sustain talk and actively working to evoke change talk, the therapist can improve their Softening Sustain Talk score and more effectively guide the client towards considering change.

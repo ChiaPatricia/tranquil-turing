@@ -1,0 +1,49 @@
+Sheet Number: 2
+Prompt Number: 1
+==================================================
+## Softening Sustain Talk Global Score: 3
+
+**Rationale:**
+
+Based on the MITI Global Score - Softening Sustain Talk rubric and the provided transcript, a score of **3** is appropriate for this interaction. Here's why:
+
+* **Score of 3 Description:** "Clinician gives preference to the client's language in favor of the status quo, but may show some instances of shifting the focus away from sustain talk."
+
+**Justification based on the transcript:**
+
+* **Preference to Sustain Talk:** The therapist spends a significant portion of the interaction reflecting and exploring the client's sustain talk.  The client expresses considerable resistance to being there, denies having a problem, and focuses on external pressures and unfairness. The therapist frequently reflects these statements, such as:
+    * *"I’m hearing you loud and clear that being here is not something that is really a high priority for you."*
+    * *"So it seems to you like I might try to push you around and make you do a whole bunch of things you don’t want to do."*
+    * *"You’re pretty fed up."*
+    * *"Yeah. You’re not here because you think you have a problem. You're here because they sent you here."*
+    * *"So it’s confusing to you why your drinking should cause a problem or everybody should be talking about that when you look around and you see that other people drink more than you do."*
+    * *"So, it’s kind of the same thing you were saying before which is that it feels like everybody’s looking at your drinking but its just not as bad as everybody thinks it is."*
+
+    While these reflections are accurate and demonstrate empathy, they primarily keep the conversation focused on the client's reasons *against* change and for maintaining the status quo. The therapist is not actively challenging or redirecting this sustain talk for a considerable portion of the session.
+
+* **Some Instances of Shifting Focus:** There are moments where the therapist attempts to shift the focus away from sustain talk, although these are less frequent and perhaps not as impactful in redirecting the overall momentum of the conversation.  For example:
+    * *"Well let me ask you this. Since you’ve been forced to come here and since you’re feeling like everyone’s kind of pecking on you like a crow, there’s a bunch of crows flying around pecking on you about this thing about your drinking... What would you like to do with the time that you spend with me here? What would be helpful for you?"*  This question attempts to move towards the client's potential needs and goals within the session, which is a slight shift away from pure sustain talk.
+    * *"What are the kinds of things you think would keep you from being able to stop? What would get in your way?"* This question, while still exploring barriers, starts to touch upon potential challenges to change, which is a step towards exploring the change process, albeit indirectly through obstacles.
+    * *"It sounds like if you look ahead take look at your drinking and see where you’re going to go with that, you’re kind of worried about that."* This reflection picks up on a subtle shift towards change talk from the client ("If I don’t stop drinking I’m probably going to be right back in this mess again.") and amplifies it.
+
+**Why not a lower or higher score?**
+
+* **Not a Score of 1 or 2:** The therapist is not actively *facilitating* or *deepening* sustain talk in a way that would warrant a score of 1 or 2. They are not explicitly asking for reasons *not* to change or actively seeking elaboration of sustain talk beyond what the client naturally offers.
+* **Not a Score of 4 or 5:** The therapist does not consistently avoid emphasizing sustain talk or demonstrate a marked effort to decrease its depth and momentum.  There are no clear examples of using structured tasks or double-sided reflections ending with change talk to actively move the conversation away from sustain talk. The therapist primarily responds to sustain talk with reflections, which, while MI-consistent in general, in this context primarily reinforces the client's focus on the status quo.
+
+**Recommendations for Improvement (Moving towards a score of 4 or 5):**
+
+To improve their Softening Sustain Talk score, the therapist could consider the following:
+
+1. **Minimize Elaboration of Sustain Talk:** While reflecting sustain talk is important for empathy, the therapist could be more concise in their reflections and avoid overly detailed or repeated reflections of the same sustain talk themes. In this transcript, the therapist reflects the client's anger and resistance multiple times without actively pivoting towards change talk.
+
+2. **Strategic Shifting to Change Talk:** After acknowledging and reflecting sustain talk briefly, the therapist should actively look for opportunities to shift the conversation towards change talk. This could involve:
+    * **Linking Sustain Talk to Values/Goals:**  After reflecting the client's frustration about the legal system, the therapist could ask about what is important to the client in his life that might be impacted by his current situation (e.g., "It sounds like this whole legal situation is really frustrating.  Thinking about what's important to you in your life, like your job and your house, how does this situation fit with those things?").
+    * **Using Double-Sided Reflections (ending with Change Talk):** When the client expresses ambivalence (even if subtle), the therapist can use double-sided reflections to highlight both sustain talk and any emerging change talk, always ending with the change talk side to reinforce it.  For example, when the client says "But, boy I tell you what, I’m sure not really looking forward to any of this. I don’t know," the therapist could have responded with something like, "So on the one hand, you're not looking forward to this process, *and* you also mentioned wanting to get something out of it for your money and to avoid future problems.  It sounds like there are different things you're weighing here."
+    * **Briefly Affirming Sustain Talk and Immediately Shifting:**  The therapist could use brief affirmations of the client's feelings of frustration or unfairness, and then immediately transition to questions that evoke change talk. For example, "It makes complete sense that you're feeling frustrated given everything you're going through.  Thinking about what you *do* want to happen, what would be a good outcome for you from being here today?"
+
+3. **Avoid Lingering on Barriers:** While exploring barriers to change is sometimes necessary, the therapist should be mindful of not dwelling on them excessively, especially early in the conversation when building motivation is crucial. In this transcript, the therapist spends a considerable amount of time exploring the client's reasons *why* he might not be able to stop drinking (friends, relaxation, etc.), which could inadvertently reinforce sustain talk.
+
+4. **Introduce Structured Tasks (Later in the conversation, if appropriate):**  If the conversation progresses and the client shows any openness to considering change, the therapist could introduce brief, structured tasks to shift the focus.  However, in this early stage of high resistance, focusing on evocative questions and strategic reflections to elicit change talk would likely be more beneficial.
+
+By implementing these strategies, the therapist can more effectively "soften sustain talk" and guide the conversation towards exploring the client's own motivations for change, ultimately improving their MITI Softening Sustain Talk global score.

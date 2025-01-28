@@ -1,0 +1,47 @@
+Sheet Number: 11
+Prompt Number: 1
+==================================================
+## Global Score - Softening Sustain Talk: 3
+
+**Feedback:**
+
+Based on the transcript provided, I would score the therapist a **3** on the Softening Sustain Talk global score.
+
+**Reasoning:**
+
+The therapist demonstrates characteristics of a score of 3, indicating a tendency to give preference to the client's sustain talk, but with some instances of attempting to shift the focus. Let's break down the reasoning based on the MITI scoring criteria:
+
+**Points supporting a score of 3:**
+
+* **Preference for Sustain Talk:** The therapist frequently reflects and validates the client's sustain talk.  Examples include:
+    * **Client:** "It seems like I’d have to look at everything I eat and I just sort of eat when I’m hungry..." **Therapist:** "I hear what you’re saying. It’s very difficult to figure this out. It is a lot of stuff. It is a lot." This validates the client's feeling of overwhelm and difficulty, which is sustain talk.
+    * **Client:** "Can’t they just make it easier?" **Therapist:** "Well, I don’t know, let’s talk about that. Maybe you and I together can figure out something that’s going to work for you." While this attempts to be collaborative, it initially validates the client's desire for ease, which is rooted in sustain talk.
+    * **Client:** "Well, they’re quite a bit more expensive." **Therapist:** "Yeah, so cost is going to be an issue." This reflection focuses on the barrier (cost), a form of sustain talk.
+    * **Client:** "No. Since my husband died, he was the one I really cooked for and now it’s just me and it’s so much work." **Therapist:** "A lot of effort." This reflection focuses on the effort, a barrier and thus sustain talk.
+    * **Client:** "It’s not so easy." **Therapist:** "It’s definitely not. Changing diet and exercise is one of the hardest things people can do." This statement strongly validates and normalizes the difficulty of change, which can inadvertently reinforce sustain talk.
+
+* **Some Missed Opportunities to Shift Focus:** While the therapist does not explicitly *seek* sustain talk, they often follow the client down the path of sustain talk without consistently redirecting towards change talk. For example, after the client expresses numerous barriers to dietary change, the therapist could have explored the "exercise" change talk more deeply after the client mentioned walking with Cheryl, rather than continuing to focus on the difficulties of diet.
+
+**Points that prevent a higher score (4 or 5):**
+
+* **Lack of Consistent Effort to Decrease Sustain Talk:** The therapist does not demonstrate a "marked and consistent effort to decrease the depth, strength, or momentum of the client's language in favor of the status quo" (Score 5).  There are no examples of using techniques like double-sided reflections ending with change talk, or strategic reframing of sustain talk to highlight ambivalence.
+* **Occasional Reinforcement of Sustain Talk:**  Statements like "It’s definitely not. Changing diet and exercise is one of the hardest things people can do" while intended to be empathetic, can inadvertently amplify the perceived difficulty of change and thus reinforce sustain talk.
+* **Directive Statement:** The statement "Well, Janie I think getting the smaller fries is a step in the right direction but I really don’t think that’s enough. I think you really have to put more effort into this." is directive and evaluative. This is likely to increase sustain talk and resistance, and is the opposite of softening sustain talk. It focuses on the inadequacy of the client's current change talk, rather than building on it.
+
+**Points that prevent a lower score (1 or 2):**
+
+* **Not Consistently Facilitating Sustain Talk:** The therapist is not actively and consistently *eliciting* or deepening sustain talk in a way that would warrant a score of 1 or 2. They are mostly responding to the client's naturally occurring sustain talk.
+* **Occasional Attempts to Shift:** The therapist does make some attempts to shift the conversation, such as asking "Can you see any small changes that might be workable for you?" and later trying to introduce the cookbook and healthier meal options. These attempts, though not consistently effective in softening sustain talk, prevent the score from falling to a 1 or 2.
+
+**Recommendations for Improvement:**
+
+To improve their Softening Sustain Talk score, the therapist could focus on the following:
+
+1. **Minimize Reflection of Sustain Talk:** While some reflection is important for empathy, the therapist should be more selective in reflecting sustain talk.  Avoid dwelling on barriers and difficulties.
+2. **Shift Focus Quickly from Sustain Talk:** When sustain talk arises, acknowledge it briefly and then immediately pivot to exploring change talk. For example, after the client says "It’s not so easy," the therapist could respond with empathy but then quickly follow up with a question like, "And despite it not being easy, what are some reasons why you are even considering making these changes?"
+3. **Utilize Double-Sided Reflections (with Change Talk Emphasis):** When reflecting ambivalence, ensure the reflection ends with the change talk side to guide the conversation in that direction. For example, "On the one hand, changing your diet seems really overwhelming and difficult, *and* on the other hand, you mentioned walking with Cheryl and being willing to cut down on fries, so there's also a part of you considering making some shifts."
+4. **Avoid Directive or Confrontational Statements:** Statements that tell the client what to do or evaluate their efforts (like "I really don’t think that’s enough") are counterproductive to softening sustain talk and building intrinsic motivation.
+5. **Amplify Change Talk:** When the client expresses any change talk (even small amounts like considering smaller fries), amplify it with affirmations, reflections, and open questions to explore it further and build momentum in the direction of change.
+6. **Strategic Use of Questions:**  Instead of asking questions that explore barriers (which can evoke sustain talk), focus on questions that explore motivations, values, hopes, and possibilities for change.
+
+By implementing these strategies, the therapist can learn to more effectively navigate sustain talk and guide the conversation towards change, ultimately improving their Softening Sustain Talk skills in Motivational Interviewing.

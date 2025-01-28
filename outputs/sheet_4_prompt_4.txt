@@ -1,0 +1,49 @@
+Sheet Number: 4
+Prompt Number: 4
+==================================================
+## Feedback on Cultivating Change Talk Global Score
+
+Based on the transcript provided and the MITI guidelines, I would give a global score of **2** for Cultivating Change Talk.
+
+Here's my reasoning, broken down by the MITI score descriptions:
+
+**Score of 2 Justification:**
+
+The therapist in this transcript demonstrates **sporadic attention to client language in favor of change and frequently misses opportunities to encourage change talk.**  Let's look at specific examples from the transcript and how they align with the score of 2 description:
+
+* **Superficial attention to client language about the change goal:**  The therapist acknowledges the change goal (quitting smoking for surgery) as introduced by Dr. Ross. However, the focus quickly shifts to the therapist providing information and explaining the links between smoking and health/surgery.  There's not a deep exploration of the *client's* understanding or perspective on this change goal beyond his initial resistance.
+
+    * **Example:**  The therapist asks "What do you think about that?" after explaining Dr. Ross's recommendation. When the client expresses strong resistance ("It’s a bunch of bullshit."), the therapist acknowledges it ("Right. OK.") but quickly pivots back to the service's agenda and information giving ("heart of my job is to do whatever I can to help people gather the information they need..."). This bypasses an opportunity to explore the client's perspective and potential ambivalence.
+
+* **Fails to ask about potential benefits of change:** The therapist focuses heavily on the *risks* of smoking and the negative consequences for surgery and future health. While mentioning "positive side, what the release will be like when you stop smoking and your body starts recovering," this is presented as information *from the therapist* rather than a question eliciting the client's own ideas about benefits.  The therapist doesn't ask the client about potential personal benefits of quitting, such as improved energy, saving money, feeling better physically, etc.
+
+    * **Example:** The therapist states, "it’s most important to have a clear sense in your mind about why you might quit smoking, and what the impact is on your health, and on the positive side, what the release will be like when you stop smoking and your body starts recovering." This is framed as the therapist's agenda rather than an open-ended invitation for the client to explore *his own* reasons for change.
+
+* **Lack of curiosity or minimal interest in client's values, strengths and past successes:** The therapist does not explore the client's values, strengths, hopes, or past successes in relation to health or behavior change.  The conversation remains focused on the problem of smoking and the need to quit for surgery, without tapping into the client's intrinsic motivations or resources.
+
+    * **Example:**  The entire conversation is problem-focused and information-driven. There are no questions like "What's important to you in terms of your health?" or "Have you ever made a health change in the past that you were proud of?" or "What are your hopes for your recovery after surgery?".
+
+**Why not a score of 1?**
+
+The therapist *does* mention the change goal (quitting smoking) and the service is explicitly about stopping smoking.  Therefore, it's not a complete absence of attention to change.
+
+**Why not a score of 3 or higher?**
+
+The therapist misses numerous opportunities to encourage change talk. The interaction is primarily didactic and information-giving.  There isn't evidence of the therapist actively trying to evoke the client's own motivations for change, explore ambivalence, or build momentum for change talk.  The therapist doesn't consistently attend to or follow up on any potential seeds of change talk from the client (though in this short excerpt, the client primarily expresses sustain talk).
+
+**Recommendations for Improvement (Moving towards a score of 4 or 5):**
+
+To improve their Cultivating Change Talk score, the therapist could focus on:
+
+* **Eliciting Change Talk Early and Often:**  Instead of immediately jumping into information giving, the therapist could start by exploring the client's own understanding of the situation and his thoughts and feelings about quitting.
+    * **Example:** After the client says "It’s a bunch of bullshit," the therapist could respond with empathy and curiosity, such as: "It sounds like you're feeling pretty frustrated with this recommendation. Tell me more about what makes it feel like 'bullshit'."  This opens the door to understanding the client's perspective and potentially exploring ambivalence.
+* **Asking Evocative Questions:**  Use open-ended questions to explore the client's reasons for change, values, and concerns.
+    * **Examples:**
+        * "What are some things that are important to you in your life right now?" (linking to values)
+        * "If you *were* to consider quitting, what would be some reasons you might think about it?" (exploring potential change talk even with resistance)
+        * "What are some things you're hoping for with this surgery and your recovery?" (linking change to desired outcomes)
+* **Responding to Sustain Talk with Reflection and Shifting Focus:**  Acknowledge and reflect sustain talk, but then gently guide the conversation back towards change talk or ambivalence.
+    * **Example:** After the client says "I’ve chosen to go ahead and take those [risks] because I really enjoy smoking," the therapist could reflect: "So, on one hand, you understand the risks, and at the same time, smoking is something you really enjoy."  Then, shift focus: "And as you think about the surgery and your recovery, what are some of your biggest hopes?" (shifting to values and desired outcomes).
+* **Prioritizing Elicitation over Information Giving:**  Hold back on providing information until the client's own motivations and understanding have been explored. When information is given, tailor it to the client's expressed needs and concerns.
+
+By shifting the focus from information delivery to eliciting the client's own motivations and reasons for change, the therapist can significantly improve their Cultivating Change Talk score and move towards a more effective Motivational Interviewing approach.

@@ -1,0 +1,57 @@
+Sheet Number: 16
+Prompt Number: 4
+==================================================
+Okay, I can definitely help you with that! Let's break down this transcript and give a "Cultivating Change Talk" global score using the MITI framework you provided.
+
+Based on the transcript you provided, here's my assessment of the therapist's "Cultivating Change Talk" global score:
+
+**Global Score for Cultivating Change Talk: 1**
+
+**Reasoning and Justification based on MITI Descriptors:**
+
+Let's go through the MITI descriptors for Cultivating Change Talk and see why a score of 1 is most appropriate here:
+
+* **Score of 1:** "Clinician shows no explicit attention to, or preference for, the client's language in favor of changing."
+
+This descriptor aligns strongly with the interaction in the transcript.  Here's why:
+
+* **Focus on Policy and Consequences, Not Client's Motivation:** The therapist (Donna) immediately jumps into explaining *why* Mike is there based on his failed drug test and company policy.  The entire initial part of the conversation is structured around the *external* reasons for change (keeping his job) rather than exploring Mike's *internal* motivations or reasons he might *want* to change his marijuana use.
+
+    * **Example:** "Well, I’ll tell you exactly, if you want, why you are here... Because I can look at your file and you failed your drug test and your employer is one of our clients, and whenever someone fails the drug test, they end up coming here so that we can hopefully help you keep your job."
+
+* **Ignoring or Dismissing Client's Perspective and Feelings:** When Mike expresses frustration and feels unfairly targeted, the therapist acknowledges it superficially ("Yeah I hear that a lot") but immediately pivots back to the company policy and requirements.  There's no genuine exploration of Mike's feelings or perspective.
+
+    * **Example:**
+        * **Mike:** "Well I, you know, get a little frustrated that I have to take a drug test off a simple mistake at work. And you know, there is no proof that I did anything wrong at work. I don’t see why I should have to be here for stuff I do on my own time."
+        * **Donna:** "Yeah I hear that a lot; I mean that’s the way a lot of people feel. But the bottom line is ... that’s the policies and procedures of your workplace..."
+
+* **Providing Reasons for Change Instead of Eliciting Them:** The therapist tells Mike why he *should* change (to keep his job, because marijuana is bad for mistakes, because it stays in his system).  She doesn't ask Mike about *his* reasons, values, or concerns related to his marijuana use.
+
+    * **Example:** "Well, you know that is something, when somebody is impaired, that ... and marijuana is particularly bad for that. And it looks like that is what you failed on your drug test, was the marijuana. And you know that is particularly bad for that. It makes those mistakes a lot more likely to happen."
+
+* **Missed Opportunities to Explore Change Talk:**  When Mike mentions smoking "to unwind at the end of the day," this could have been an opportunity to explore his coping mechanisms, potential downsides of marijuana use, or alternative ways to relax. Instead, the therapist immediately counters with "Yeah, but it stays in your system, you know."  This shuts down any potential for exploring Mike's experience and steers the conversation back to the negative consequences.
+
+* **Confrontational and Directive Approach:** The therapist's statements like "clearly you would have given it up already if you weren’t having some serious problems with it" and "you just, you don’t really have a choice if you want to keep your job" are directive and even confrontational. This approach is likely to increase client resistance and sustain talk, rather than evoke change talk.
+
+**Why Higher Scores are Not Appropriate:**
+
+* **Score of 2:**  Requires "sporadically attends to client language in favor of change - frequently misses opportunities."  In this transcript, there's no evidence of even sporadic attention to change talk.
+* **Score of 3, 4, or 5:** These scores all require *some* level of attention to and cultivation of change talk, which is absent in this interaction.
+
+**In summary, the therapist in this transcript operates from a very directive, information-giving, and somewhat confrontational stance.  There is no discernible effort to understand Mike's perspective, explore his own reasons for change, or cultivate any change talk.  Therefore, a global score of 1 for Cultivating Change Talk is the most accurate and appropriate assessment.**
+
+**Feedback for the Therapist (Donna):**
+
+Donna, while it's important to explain the program requirements and the context of Mike's referral, this session is heavily weighted towards information giving and persuasion. To improve your "Cultivating Change Talk" score, consider the following:
+
+* **Shift from Information Dumping to Elicitation:**  Instead of telling Mike *why* he's there and *why* he should change, ask open-ended questions to understand *his* perspective.  For example, instead of "Well, I’ll tell you exactly, if you want, why you are here...", try "Mike, it sounds like you're feeling unsure about why you're here today. Can you tell me a bit more about your understanding of the situation?"
+
+* **Explore Client's Values and Concerns:**  Ask about what's important to Mike in his life, his values, and his concerns related to his current situation.  This can help you connect the potential change goal (reducing marijuana use) to things he already cares about.
+
+* **Recognize and Respond to Change Talk (Even if Subtle):**  Actively listen for any hints of change talk, even if it's just ambivalence or recognition of potential downsides.  Reflect and amplify these statements to encourage further exploration.  In this transcript, there weren't many explicit change talk statements, but a more exploratory approach might have elicited some.
+
+* **Reduce Confrontation and Directive Statements:**  Statements that directly challenge or pressure the client can increase resistance.  Instead, aim for a more collaborative and supportive approach.  For example, instead of "clearly you would have given it up already if you weren’t having some serious problems with it," you could explore his perspective with curiosity: "You mentioned you've been working there for 13 years without issue.  How do you see marijuana fitting into your life right now?"
+
+* **Focus on Evoking Client's Own Reasons for Change:**  Motivational Interviewing is about helping clients find their *own* motivation for change.  Spend more time asking open-ended questions, reflecting, and summarizing to help Mike explore his ambivalence and potentially discover his own reasons to consider change.
+
+By shifting your focus from telling and persuading to listening, exploring, and evoking, you can significantly improve your ability to cultivate change talk and move towards a more MI-consistent approach.

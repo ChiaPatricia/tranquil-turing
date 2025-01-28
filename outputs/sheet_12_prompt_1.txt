@@ -1,0 +1,25 @@
+Sheet Number: 12
+Prompt Number: 1
+==================================================
+## Softening Sustain Talk Global Score: 4
+
+**Rationale:**
+
+Based on the transcript and the MITI Global Score descriptions for Softening Sustain Talk, a score of **4** is appropriate for this interaction. Here's why:
+
+* **Score 4 Description:** "Clinician typically avoids an emphasis on client language favoring the status quo."
+
+**Justification based on the transcript:**
+
+* **Minimal Attention to Sustain Talk:** While the therapist acknowledges and reflects some of the client's sustain talk, they do not dwell on it or actively seek to deepen it. For example, when the client expresses "Oh god, I don’t know how I’m going to give this up," the therapist responds with "What are some of the benefits of quitting?" This is a direct pivot away from sustain talk and towards change talk.
+* **Does Not Explicitly Ask for Reasons Not to Change (after initial exploration):**  After the initial question "And what are some of the things you get out of smoking that you enjoy about it?", which is a reasonable way to understand the client's perspective, the therapist does not repeatedly ask for or explore reasons *not* to change.
+* **Lack of Curiosity and Focus on Reasons to Maintain Status Quo:** The therapist shows more curiosity about solutions and strategies for quitting (patch, Welbutrin, alternative activities) than about the client's reasons to continue smoking.
+* **Does Not Linger in Discussions about Barriers to Change:** While the client brings up barriers like "what am I going to do with my hands?" and weight gain, the therapist acknowledges these concerns but quickly attempts to move towards solutions. For instance, after the client's concern about weight gain, the therapist says, "Ok, so we’ve talked about weight a little bit and that’s one thing. What else, what do you think you can do while you’re quitting to avoid that weight gain?" This redirects the conversation towards problem-solving rather than dwelling on the barrier itself.
+
+**Areas for Potential Improvement (Moving towards a score of 5):**
+
+* **More Active Shifting:** While the therapist avoids emphasizing sustain talk, they could be more proactive in *decreasing* its momentum. Techniques like double-sided reflections ending with change talk could be used more frequently. For example, when the client says "god I just love it so much," the therapist could have responded with something like, "It sounds like you really enjoy smoking, *and* you're also worried about your health and don't want to end up with emphysema." This would acknowledge the sustain talk but immediately link it to change talk.
+* **Less Simple Reflection of Sustain Talk:**  Phrases like "So you get a lot out of smoking" and "So, that’s your big concern" are simple reflections of sustain talk. While showing understanding, they could be replaced with reflections that pivot more quickly. For example, instead of "So you get a lot out of smoking," the therapist could have said, "It sounds like smoking provides you with some real benefits, like relaxation and stress relief.  And at the same time, you're also facing some serious health concerns."
+* **Structured Tasks:**  While not explicitly required for a score of 4, incorporating structured therapeutic tasks to shift focus away from sustain talk (as mentioned in the score of 5 description) could further enhance the softening of sustain talk.
+
+**In summary, the therapist demonstrates a good understanding of how to avoid emphasizing sustain talk and generally keeps the conversation moving towards change.  However, there are opportunities to be more active and strategic in minimizing sustain talk to reach a higher level of proficiency in this area of Motivational Interviewing.**

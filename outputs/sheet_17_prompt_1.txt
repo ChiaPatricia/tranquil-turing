@@ -1,0 +1,47 @@
+Sheet Number: 17
+Prompt Number: 1
+==================================================
+## Softening Sustain Talk Global Score: 3
+
+**Rationale:**
+
+Based on the transcript and the MITI Global Score descriptions for Softening Sustain Talk, a score of **3** is the most appropriate for this interaction. Here's why:
+
+**Score 3 Description:** "Clinician gives preference to the client's language in favor of the status quo, but may show some instances of shifting the focus away from sustain talk."
+
+**Evidence from the Transcript Supporting a Score of 3:**
+
+* **Preference for Sustain Talk:** The therapist frequently reflects and validates the client's sustain talk. Examples include:
+    * **Client:** "Well yeah, I mean you know it’s not, it’s not really, I don’t believe it’s the drinking that’s really the problem, it’s my, you know, I’m having some stomach problems."
+    * **Therapist:** "Right right. So you don’t see the drinking as the cause of all this. You think, you know, you’re having this stomach issue and the drinking’s not really related."
+    * **Client:** "Well I can’t see having any worries about legal problems or anything cause I’m not driving anywhere. I do it at home..."
+    * **Therapist:** "It doesn’t really fit with you, you don’t really see yourself as having a drinking problem"
+    * **Client:** "I don’t know, it’s really hard to imagine, you know, not being able to. ...otherwise the anxiety’s just gonna bowl me over, you know"
+    * **Therapist:** "Right right. Drinking is...so it’s something that you do in a lot of ways to cope with some of the stress you’ve got going on."
+    * **Client:** "Yeah, yeah I mean I, you know, I don’t know...otherwise, you know, I’m afraid I might have to do something drastic to my kid, you know."
+    * **Therapist:** "Mmm hmm. Yeah, things might get pretty bad."
+
+    These reflections, while demonstrating empathy and understanding, tend to keep the conversation focused on the client's reasons *not* to change and the difficulties of change.
+
+* **Missed Opportunities to Shift Focus:** While the therapist doesn't explicitly *ask* for sustain talk, the therapist also doesn't consistently redirect the conversation away from it.  For example, when the client expresses strong sustain talk like "I can’t see going down to one. That doesn’t, I don’t see that," the therapist responds with "Okay. What seems like a reasonable number for you?" This is a slight shift towards exploring change, but it immediately follows strong sustain talk and could be seen as somewhat accommodating the sustain talk by focusing on a compromise rather than gently challenging the resistance.
+
+* **Some Instances of Shifting Focus:** There are moments where the therapist attempts to shift the focus, albeit gently:
+    * **Therapist:** "Right, right, well I’m not a medical doctor... but if it’s ok with can I talk to you a little bit about what he shared specifically in terms of how much you were drinking and then some norms..." - This attempts to introduce external information and norms, potentially moving away from the client's subjective reasons for not changing.
+    * **Therapist:** "Well what are activities you could do that would help you to relax? ...So that might be something for you to consider." - This is a suggestion to explore alternatives to drinking, a move towards problem-solving and change.
+    * **Therapist:** "I guess I worry a little bit about you not taking care of yourself and that you are not necessarily putting yourself in the best position to take care of them" - This is a gentle confrontation linking self-care to her values as a mother, potentially evoking change talk related to her responsibilities.
+
+**Why not a lower or higher score?**
+
+* **Not a Score of 1 or 2:** The therapist is not actively and consistently *facilitating* or *choosing to explore* sustain talk in a way that deepens arguments for the status quo. The therapist is not explicitly asking for reasons *not* to change or actively seeking elaboration of sustain talk in a way that would warrant a score of 1 or 2.
+* **Not a Score of 4 or 5:** The therapist does not consistently *avoid emphasis* on sustain talk (Score 4) or show a *marked and consistent effort to decrease* sustain talk (Score 5).  The therapist spends a significant portion of the conversation reflecting and validating sustain talk, rather than consistently and actively redirecting towards change talk or using techniques like double-sided reflections ending in change talk to minimize sustain talk.
+
+**In summary, the therapist in this transcript demonstrates a pattern of acknowledging and reflecting the client's sustain talk, indicating a preference for it, but also shows some initial attempts to gently shift the focus towards change. This mixed approach best aligns with a global score of 3 for Softening Sustain Talk.**
+
+**Recommendations for Improvement (Moving towards a score of 4 or 5):**
+
+* **Minimize Reflections of Sustain Talk:** While empathy is crucial, reduce the frequency and depth of reflections that focus solely on sustain talk.
+* **Strategic Use of Reflections:** When reflecting sustain talk, consider using it strategically to set up a double-sided reflection or to transition to exploring change talk. For example, after reflecting sustain talk, immediately follow up with a question that evokes change talk.
+* **Shift Focus More Actively:**  After acknowledging sustain talk briefly, consciously and actively redirect the conversation towards exploring the client's values, goals, and discrepancies between their current behavior and desired future.
+* **Use Double-Sided Reflections Ending in Change Talk:** When using double-sided reflections, ensure they consistently end with a reflection of change talk to guide the conversation in that direction.
+* **Explore Change Talk More Proactively:**  Ask more open-ended questions that directly invite change talk, such as "What are some of the good things that might happen if you were to make a change?" or "What are your concerns about your current drinking?"
+* **Minimize Lingering on Barriers:** While acknowledging barriers is important, avoid dwelling on them. After acknowledging a barrier, promptly pivot to exploring solutions, strengths, or reasons for change.

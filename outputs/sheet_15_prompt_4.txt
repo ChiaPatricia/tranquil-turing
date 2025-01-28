@@ -1,0 +1,47 @@
+Sheet Number: 15
+Prompt Number: 4
+==================================================
+```xml
+<feedback>
+Based on the transcript provided, I would give a global score of **2** for Cultivating Change Talk.
+
+Here's my reasoning based on the MITI scoring criteria:
+
+* **Score of 2 Description:** "Clinician sporadically attends to client language in favor of change - frequently misses opportunities to encourage change talk."
+
+**Analysis of the Transcript:**
+
+* **Limited Elicitation of Change Talk:** The therapist (P) primarily focuses on providing information and recommendations regarding the client's (C) silent reflux diagnosis.  While this information is relevant, the therapist misses numerous opportunities to explore the client's own motivations, reasons, and desires for change related to managing her condition.
+* **Missed Opportunities to Explore Client's Concerns:**  The client expresses worry about her voice and the impact of coughing on her livelihood ("I talk for a living. That’s what I do. I use it for my livelihood. So it’s pretty scary."). This is a clear expression of concern and a potential motivator for change. However, the therapist acknowledges this ("Right. Right.") but doesn't delve deeper into *why* it's scary, what she values about her voice, or how managing reflux could help her in her professional life.
+* **Superficial Attention to Client's Past Success:** The client mentions past weight loss and a possible correlation with reduced coughing ("the last time I did have a weight loss effort...I did notice that I wasn’t coughing as much."). This is a valuable piece of change talk – a past experience of positive change linked to a relevant behavior.  The therapist acknowledges this ("Right. Right. Well we’ll send you to Hawaii every other month!") but dismisses it with a joke instead of exploring it further.  A more MI-consistent response would be to explore this past success: "It sounds like you noticed a connection between weight loss and your cough before. Tell me more about that experience. What was it like to notice less coughing?"
+* **Focus on "Shoulds" and Directives:** The therapist uses language that is more directive than evocative, such as "You do really need to take some action now to get it under control," "There are several things that I will encourage you to do," and "There is another thing you really should consider." This approach can elicit sustain talk rather than change talk, as the client might feel pushed or resistant.
+* **Limited Exploration of Values/Goals:** The therapist does not explicitly explore the client's values, hopes, or goals related to her health or voice. Connecting the recommended changes to the client's underlying values is a key aspect of cultivating change talk.
+
+**Why not a score of 1?**
+
+The therapist isn't completely ignoring the client's concerns.  She acknowledges the client's statements and responds to them. However, the interaction is primarily information-giving and advice-oriented, rather than focused on eliciting and strengthening the client's *own* reasons for change.
+
+**Why not a score of 3 or higher?**
+
+The therapist misses too many opportunities to deepen the conversation around change.  A score of 3 would suggest that the clinician "often attends to the client's language in favor of change, but misses *some* opportunities." In this transcript, the missed opportunities are frequent and significant, hindering the cultivation of change talk.  Scores of 4 and 5 require consistent and marked efforts to encourage and deepen change talk, which are not evident here.
+
+**Recommendations for Improvement:**
+
+To improve their Cultivating Change Talk score, the therapist could focus on:
+
+* **Eliciting Change Talk Questions:**  Instead of primarily giving information, ask more open-ended questions designed to elicit the client's own reasons for change. For example:
+    * "What are your biggest concerns about your voice right now?"
+    * "How is this cough impacting your life?"
+    * "What are some of the potential benefits you see in managing your reflux?"
+    * "Thinking back to when you lost weight before and noticed less coughing, what motivated you to make those changes then?"
+* **Responding to Change Talk with Reflections and Deeper Exploration:** When the client offers change talk (like concerns about her voice or past weight loss experience), respond with reflections that amplify and explore these statements. For example:
+    * Client: "I talk for a living. That’s what I do. I use it for my livelihood. So it’s pretty scary."
+    * Therapist (Reflection & Exploration): "It sounds like your voice is really central to your work and this cough is feeling quite threatening to that.  Tell me more about what it's like when the coughing interferes with your ability to talk."
+* **Exploring Values and Goals:**  Explicitly ask about the client's values and goals related to her health and well-being.  Connect the recommended changes to these values. For example:
+    * "What's important to you about your health in general?"
+    * "How does having a healthy voice fit into your overall goals?"
+* **Less Directive Language:** Shift from telling the client what she "should" do to exploring her own thoughts and feelings about the changes. Use more collaborative language.
+
+By focusing on these areas, the therapist can move from sporadically attending to change talk to actively and consistently cultivating it, leading to more effective motivational interviewing.
+</feedback>
+```

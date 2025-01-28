@@ -1,0 +1,45 @@
+Sheet Number: 10
+Prompt Number: 1
+==================================================
+## Softening Sustain Talk Global Score: 1
+
+**Feedback:**
+
+Based on the transcript and the MITI Global Score - Softening Sustain Talk criteria, I would assign a global score of **1** for Softening Sustain Talk in this interaction.
+
+**Reasoning:**
+
+The therapist in this session consistently responds to the client's language in a way that facilitates and deepens the client's arguments for maintaining the status quo (pot use).  Here's a breakdown of why this transcript aligns with a score of 1:
+
+* **Explicitly asks for arguments against change, queries difficulties:** The therapist repeatedly asks questions that invite sustain talk. Examples include:
+    * "And you don’t see that as a problem."
+    * "Well, what do you make of the results of the studies, then?"
+    * "But that doesn’t concern you at all."
+    * "I’m confused as to why you see this difference between alcohol and pot..."
+    * "But you’ve gone a week without smoking; doesn’t that make it worth it?"
+    * "I’m surprised that you don’t see some of the negative consequences... what would have to happen for you to see that you need to quit."
+    * "So you see no reasons at all to quit – for good."
+
+    These questions directly solicit the client's reasons *against* change and invite him to elaborate on his perspective that pot use is not problematic.
+
+* **Actively seeks elaboration when sustain talk is offered through questions, reflections, or affirmations:**  When the client offers sustain talk, the therapist often probes further or reflects it in a way that encourages more sustain talk. For example, after the client minimizes the negative effects of pot, the therapist asks, "Well, what do you make of the results of the studies, then?" This invites the client to further justify his dismissal of the studies and reinforce his sustain talk.
+
+* **Preferential attention and reinforcement of sustain talk when it occurs alongside change talk:**  While there are very minimal instances of change talk from the client (e.g., acknowledging memory lapses, past week of abstinence), the therapist's focus remains overwhelmingly on the sustain talk.  Even when the client mentions quitting for a week, the therapist's subsequent questions and reflections often circle back to the client's justifications for pot use and lack of perceived problems.
+
+* **Sustained curiosity and focus about reasons not change:** The therapist demonstrates a persistent curiosity about *why* the client doesn't see pot use as a problem and why he is resistant to change. This sustained focus keeps the conversation centered on the client's reasons for maintaining the status quo, rather than exploring potential reasons for change or ambivalence.
+
+**In summary,** the therapist in this transcript consistently engages with and explores the client's sustain talk, often missing opportunities to shift the focus towards change talk or explore ambivalence. The interaction becomes heavily weighted towards the client defending his pot use and minimizing any potential negative consequences, which is characteristic of a low score on Softening Sustain Talk.
+
+**Recommendations for Improvement:**
+
+To improve on Softening Sustain Talk, the therapist could:
+
+* **Minimize direct questioning about reasons *not* to change:** Instead of asking "And you don’t see that as a problem?", the therapist could explore the client's perspective in a more open-ended way that doesn't directly invite justification of the status quo. For example, "Help me understand your perspective on your pot use."
+
+* **Shift focus away from sustain talk:** When the client expresses sustain talk, acknowledge it briefly and then strategically shift the conversation towards other areas, such as exploring values, goals, or potential discrepancies between current behavior and desired future.
+
+* **Use reflections to acknowledge sustain talk briefly and then pivot:** Instead of deeply exploring sustain talk, use brief reflections to acknowledge the client's perspective and then immediately follow with a question or reflection that gently redirects towards change talk or ambivalence. For example, after the client says "It relaxes me, calms me down," the therapist could reflect, "So pot helps you relax and feel calm, *and* you're here because the judge is requiring you to address your pot use." (Double-sided reflection to introduce discrepancy).
+
+* **Evoke change talk more actively:**  The therapist could use more evocative questions to explore the client's own reasons for change, even small ones. For example, "What are some things that are less ideal about your current pot use, even small things?" or "If you *were* to consider making a change with your pot use, what would be some reasons you might consider it?"
+
+By implementing these strategies, the therapist can learn to "soften" sustain talk and create a more motivationally focused conversation that explores ambivalence and facilitates movement towards change.

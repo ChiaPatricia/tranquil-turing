@@ -1,0 +1,36 @@
+Sheet Number: 19
+Prompt Number: 1
+==================================================
+```xml
+<feedback>
+## Softening Sustain Talk Global Score: 4
+
+**Rationale:**
+
+Based on the transcript and the MITI Global Score descriptions for Softening Sustain Talk, a score of **4** is appropriate for this session.
+
+**Score 4 Description:**
+
+"Clinician typically avoids an emphasis on client language favoring the status quo."
+
+**Examples from the transcript supporting a score of 4:**
+
+* **Minimal Attention to Sustain Talk:** While the client expresses sustain talk throughout the session, particularly regarding her boyfriend's helpfulness and her dependence on him, the therapist does not dwell on these points. For example, when the client says, "He such a really good daddy, and he helps us out a lot ...", the therapist acknowledges this but immediately pivots to the contrasting element: "but on the other hand it was just like what is this, something really different." This avoids lingering on the sustain talk.
+* **Does Not Seek Elaboration of Sustain Talk:** The therapist does not ask questions that would deepen the client's arguments for maintaining the status quo.  Instead of asking "What are the benefits of staying in this relationship?", the therapist focuses on exploring the client's ambivalence and potential areas for change.
+* **Lack of Curiosity and Focus on Reasons to Maintain Status Quo:** The therapist's questions and reflections are primarily directed towards understanding the client's situation, exploring her thoughts about change (like going back to work), and identifying potential areas for action (like safety planning). There is no indication of curiosity about why the client *should* maintain the current situation or relationship.
+* **Does Not Linger in Discussions about Barriers to Change:** While the client mentions barriers to change (e.g., childcare challenges for going back to work, fear of boyfriend's reaction), the therapist acknowledges these but quickly moves towards exploring solutions and options. For instance, when the client expresses concerns about childcare, the therapist responds, "Yeah. So you might have to explore some other options for the childcare and other ways of taking care of the baby so that you would feel okay about going back to work,"  shifting the focus to problem-solving rather than dwelling on the difficulty.
+* **Does Not Explicitly Ask for Reasons Not to Change:** The therapist never directly asks the client to list reasons why she shouldn't change or why staying in the current situation is preferable.
+
+**Areas for Potential Growth (Moving towards a score of 5):**
+
+While the therapist effectively avoids reinforcing sustain talk, there are opportunities to be even more proactive in *decreasing* its momentum, which is characteristic of a score of 5.
+
+* **More Explicitly Shifting Focus:**  While the therapist redirects the conversation, these shifts could be made more explicit. For example, after reflecting sustain talk, the therapist could more directly transition with phrases like, "And at the same time, you also mentioned wanting things to be different..." or "Let's shift gears a bit and talk about..."
+* **Double-Sided Reflections Ending with Change Talk:**  While the therapist uses reflections effectively, incorporating more double-sided reflections that specifically end with change talk could be beneficial. For example, after the client mentions her boyfriend's support, a double-sided reflection could be: "On the one hand, he's really helpful and provides for you, *and* on the other hand, you're also feeling scared and confused by what happened and thinking about making some changes for yourself and your baby." This subtly emphasizes the change talk side of the ambivalence.
+* **Structured Therapeutic Tasks:** In later sessions, introducing structured tasks related to exploring values, goals, or decisional balance could be used to more actively shift the focus away from sustain talk and towards change.
+
+**Summary:**
+
+The therapist demonstrates good MI skills in Softening Sustain Talk, effectively avoiding reinforcement and gently guiding the conversation towards change. A score of 4 accurately reflects this practice. Focusing on more explicit techniques to shift focus and decrease the momentum of sustain talk could further enhance this skill and move towards a score of 5 in future interactions.
+</feedback>
+```

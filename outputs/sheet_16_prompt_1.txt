@@ -1,0 +1,39 @@
+Sheet Number: 16
+Prompt Number: 1
+==================================================
+## Softening Sustain Talk Global Score: 1
+
+**Feedback:**
+
+Based on the transcript provided, the global score for Softening Sustain Talk is **1**. This indicates that the clinician consistently responds to the client's language in a manner that facilitates the frequency or depth of arguments in favor of the status quo.
+
+**Here's a breakdown of why a score of 1 is appropriate, referencing the MITI description and examples from the transcript:**
+
+* **Focus on Barriers and Reasons Not to Change:** The therapist frequently focuses on the negative consequences of the client's marijuana use *from the employer's perspective* and emphasizes the requirements of the program. This inadvertently reinforces the client's defensiveness and arguments for maintaining the status quo (continuing to smoke).
+
+    * **Example:** When the client expresses frustration about being drug tested for a "simple mistake" and doing things on his "own time," the therapist responds with: "Yeah I hear that a lot; I mean that’s the way a lot of people feel. But the bottom line is ... that’s the policies and procedures of your workplace..." This response, while acknowledging the client's feeling, immediately pivots back to the employer's policy, reinforcing the external pressure and minimizing the client's perspective.
+
+* **Actively Seeking Elaboration of Sustain Talk:** While not explicitly asking for arguments *against* change, the therapist's questioning style often leads the client to elaborate on their reasons for maintaining the status quo and minimizing the problem.
+
+    * **Example:** When the client says he smokes "a little bit," the therapist interrupts and says, "So it sounds like you smoke almost every day." This pushes the client to defend his use further ("Yeah, but not that much. I just, it’s kind of to unwind at the end of the day.") and minimizes the perceived problem in his own eyes.
+
+* **Preferential Attention and Reinforcement of Sustain Talk:** The therapist consistently engages with and responds to the client's sustain talk, often by directly countering it or explaining the employer's position. This gives more weight to the sustain talk in the conversation.
+
+    * **Example:** The client expresses feeling unfairly targeted: "Well, I think my issue, as far as the company is concerned is that the testing is supposed to happen only if they have probable cause. And I feel like people make errors at work all the time... and they don’t get drug tested, but I just got chosen." The therapist responds: "Yeah, and I hear that a lot too where people in your situation feel like they are picked out and ... but that’s just not the case. It’s just the policy."  Again, the therapist acknowledges the feeling but immediately dismisses it and reinforces the external policy, rather than exploring the client's perspective or shifting towards change talk.
+
+* **Sustained Curiosity and Focus About Reasons Not to Change (from the therapist's perspective):** The therapist's line of questioning and statements are consistently focused on the *problem* of the client's marijuana use as defined by the employer and the treatment program, rather than exploring the client's own understanding of the situation or potential motivations for change.
+
+    * **Example:**  "Well, you know that is something, when somebody is impaired, that ... and marijuana is particularly bad for that... And you know that is particularly bad for that. It makes those mistakes a lot more likely to happen." This statement directly links marijuana use to negative work outcomes, reinforcing the external pressure and potentially increasing the client's defensiveness.
+
+**Areas for Improvement:**
+
+To improve their Softening Sustain Talk score, the therapist could focus on the following:
+
+* **Minimize Direct Confrontation of Sustain Talk:** Avoid directly arguing with or correcting the client's statements about their marijuana use or the fairness of the situation.
+* **Shift Focus Away from Sustain Talk:** When the client expresses sustain talk, acknowledge it briefly and then strategically shift the conversation towards other topics, such as their values, goals, or concerns related to their job or health.
+* **Avoid Deepening Discussion of Barriers:**  While it's important to acknowledge barriers, avoid dwelling on them or exploring them in detail, especially early in the conversation.
+* **Do Not Explicitly Ask for Reasons Not to Change:**  In this initial interaction, there is no need to ask the client to elaborate on why they don't want to change. The client is already expressing this naturally.
+* **Use Double-Sided Reflections (with caution):** While double-sided reflections can be useful, in this transcript, even attempting to use them might be premature as the client is deeply entrenched in sustain talk.  Focus first on building rapport and understanding the client's perspective before attempting more complex MI techniques.
+* **Focus on Evoking Change Talk:**  Instead of focusing on the problems and requirements, the therapist should explore the client's own perspective, values, and potential discrepancies between their current behavior and their desired life.  Open-ended questions about their job satisfaction, personal goals, or health could be more helpful.
+
+By shifting away from directly addressing and reinforcing sustain talk, and instead focusing on understanding the client's perspective and evoking change talk, the therapist can significantly improve their Softening Sustain Talk score and move towards a more effective Motivational Interviewing approach.

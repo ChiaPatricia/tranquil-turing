@@ -1,0 +1,26 @@
+Sheet Number: 1
+Prompt Number: 1
+==================================================
+## Softening Sustain Talk Global Score: 4
+
+Based on the transcript provided and the MITI Global Score descriptions for Softening Sustain Talk, I would assign a global score of **4**.
+
+**Rationale:**
+
+A score of 4 indicates that the "Clinician typically avoids an emphasis on client language favoring the status quo." Let's break down why this score is appropriate based on the transcript:
+
+* **Minimal Attention to Sustain Talk when it Occurs:**  While the client expresses a significant amount of sustain talk, particularly in the beginning of the conversation, the therapist acknowledges and reflects it without dwelling on it excessively or encouraging deeper exploration of *only* sustain talk.  For example, when the client says, "if I could have a cigarette right now I would," the therapist reflects this ("It’s that much a part of your life, that you feel like you would have one even right now") but doesn't probe further into *why* he likes smoking at this point.
+
+* **Does Not Seek Elaboration of Sustain Talk:**  The therapist does not actively ask questions that would explicitly deepen the client's sustain talk.  While the therapist asks open questions, they are generally aimed at understanding the client's overall perspective, including both sustain and change talk.  For instance, "And why is that, do you think?" is a broad open question that could elicit either sustain or change talk, and in this case, it leads to the client elaborating on the integration of smoking into his identity (sustain talk), but the therapist doesn't keep asking "why" questions specifically about the *benefits* of smoking.
+
+* **Lack of Curiosity and Focus on Client's Reasons to Maintain the Status Quo:** The therapist demonstrates curiosity about the client's experience overall, but not a specific curiosity about the *reasons to maintain* smoking. The focus is more on understanding the client's ambivalence and the complexities of his relationship with smoking.
+
+* **Does Not Linger in Discussions about Barriers to Change:** While the client does discuss barriers to change (e.g., fear of withdrawal, not imagining life without cigarettes), the therapist doesn't get stuck in these discussions.  Instead, the therapist acknowledges these barriers and then gently shifts the conversation towards other aspects, including the client's readiness and potential for change.  For example, after exploring the "going crazy" fear, the therapist transitions to exploring the client's need for information and positive reinforcement, and then to importance and confidence rulers.
+
+* **Does Not Explicitly Ask for Reasons Not to Change:**  The therapist never directly asks the client to list reasons *not* to quit smoking or to elaborate on the benefits of continuing to smoke.
+
+**Why not a score of 5?**
+
+A score of 5 would indicate a "marked and consistent effort to decrease the depth, strength, or momentum of the client's language in favor of the status quo."  While the therapist avoids emphasizing sustain talk, there isn't strong evidence of *active* techniques to *reduce* sustain talk momentum, such as consistent use of double-sided reflections ending with change talk or structured tasks to shift focus away from sustain talk. The therapist primarily uses reflections and open questions to explore the client's ambivalence, which is appropriate MI practice, but doesn't demonstrate the "marked and consistent effort" described in a score of 5 for *softening* sustain talk.
+
+**In summary:** The therapist in this transcript demonstrates good MI skills by exploring the client's experience and ambivalence.  They acknowledge and reflect sustain talk to build understanding and rapport, but they do not amplify or deepen it.  They maintain a balanced approach, allowing change talk to emerge and shifting the focus towards it as the conversation progresses. This aligns well with a global score of **4** for Softening Sustain Talk.

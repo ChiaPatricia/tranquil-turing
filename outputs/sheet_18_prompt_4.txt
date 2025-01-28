@@ -1,0 +1,42 @@
+Sheet Number: 18
+Prompt Number: 4
+==================================================
+```xml
+<feedback>
+Based on the transcript provided and the MITI guidelines for "Cultivating Change Talk", I would give this interaction a global score of **2**.
+
+Here's my reasoning:
+
+**Score Justification:**
+
+* **Score of 2:** "Clinician sporadically attends to client language in favor of change - frequently misses opportunities to encourage change talk." This description best fits the interaction.
+
+**Explanation:**
+
+* **Limited Elicitation of Change Talk:**  The therapist primarily focuses on reflecting the client's sustain talk and resistance throughout the majority of the conversation.  The therapist effectively reflects the client's feelings of being forced into treatment, unfairness, and resentment towards the company policy. This is important for building rapport and demonstrating empathy, which are crucial MI principles. However, the transcript shows limited explicit attempts to elicit the client's own reasons for change related to substance use, or to explore potential benefits of change.
+
+* **Missed Opportunities:**  There are several points in the conversation where the therapist could have more actively shifted towards exploring change talk but didn't. For example:
+    * After the client expresses concern about the job (turn 11-12), the therapist could have explored the client's values related to work and how substance use might impact those values. Instead, the therapist continues to reflect the client's feelings of unfairness and invasion of privacy.
+    * When the client mentions "it is going to be rough coming home and not being able to smoke a little weed when I’m having a rough day" (turn 30), this is a moment of ambivalence and a potential opening for exploring change talk. While the therapist reflects the "torn" feeling, they don't probe further into the client's reasons for using marijuana or explore potential discrepancies between current behavior and desired outcomes.
+
+* **Focus on Sustain Talk:** The conversation is heavily weighted towards exploring and reflecting the client's sustain talk (reasons *not* to change, resistance to the situation). While acknowledging sustain talk is essential in MI, a higher score on Cultivating Change Talk requires a more active and balanced approach that strategically elicits and reinforces change talk.
+
+* **Emergence of Change Talk (Client-Initiated):**  It's important to note that the client *does* eventually express some change talk ("obviously I am going to have to figure out some other way to do it," "I think it’s going to be really tough to just stop smoking").  The therapist *does* acknowledge this change talk with a reflection, which prevents the score from being a 1. However, the therapist doesn't actively build on this change talk to deepen exploration or strengthen commitment.
+
+**Suggestions for Improvement:**
+
+To improve the "Cultivating Change Talk" score, the therapist could:
+
+* **Earlier in the conversation, after establishing some rapport, introduce questions designed to elicit change talk.**  For example:
+    * "What are some things you like about your job?" (linking to values)
+    * "What concerns, if any, do you have about your marijuana use, even if it's just a little?" (exploring concerns)
+    * "Imagine things went the way you wanted with your job and the drug testing.  How would you like things to be in your life in the future?" (exploring aspirations)
+
+* **When change talk emerges (like in turn 30), respond with more than just a simple reflection.**  Use techniques to amplify change talk:
+    * **Ask elaborating questions:** "Tell me more about what makes it rough coming home and not being able to smoke weed on a rough day."
+    * **Reflect change talk with emphasis:** "So, it sounds like part of you is recognizing that you might need to find some different ways to cope with rough days."
+    * **Summarize change talk and sustain talk to highlight ambivalence and guide towards change:** "Let me see if I understand. On one hand, you feel it's unfair and an invasion of privacy, and you don't believe your marijuana use is a problem at work. On the other hand, you're also thinking about how you might need to adjust your marijuana use to keep your job, and you recognize it will be tough to stop. Is that right?"
+
+By incorporating these strategies, the therapist can more actively cultivate change talk and move towards a higher score on this MITI global dimension.  The therapist demonstrates good empathy and reflective listening, which are foundational MI skills, but focusing more on strategically eliciting and responding to change talk will enhance their MI practice.
+</feedback>
+```

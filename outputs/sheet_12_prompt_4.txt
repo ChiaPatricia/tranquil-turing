@@ -1,0 +1,29 @@
+Sheet Number: 12
+Prompt Number: 4
+==================================================
+Based on the transcript provided and the MITI guidelines for "Cultivating Change Talk", I would give this interaction a global score of **3**.
+
+**Rationale:**
+
+**Score of 3 Description:** "Clinician often attends to the client's language in favor of change, but misses some opportunities to encourage change talk."
+
+**Justification based on the transcript:**
+
+* **Attends to Change Talk:** The therapist acknowledges the client's initial statement about needing to quit smoking due to health concerns.  For example, the therapist reflects "Ok so you’re in here to talk about what you might do to get yourself quit." and later "It seems like it would be kind of silly for you not to quit smoking." These show some attention to the change goal.
+* **Misses Opportunities to Encourage Change Talk:**
+    * **Early in the conversation:** When the client expresses initial change talk ("I guess it’s time I quit smoking"), the therapist quickly moves to "tell me about how much you smoke" and then "what are some of the things you get out of smoking that you enjoy about it?". While exploring sustain talk is important in MI, in terms of *cultivating change talk*, this sequence shifts focus away from the initial change talk statement quite quickly.
+    * **Superficial Exploration:** When the client mentions "Well, that might be an option" regarding the patch, the therapist responds "Ok so it’s something you might want to talk to your doctor about." This is a somewhat closed-ended response and doesn't deeply explore the client's openness to the patch or the reasons behind it being "an option."
+    * **Information Giving:** The therapist provides information about the patch and weight gain. While informative, this shifts the focus to the therapist as the expert rather than further eliciting the client's own reasons for change or exploring their own ideas. For example, when the client asks about the patch, the therapist explains how it works instead of asking "What are your thoughts about using the patch?" or "What do you know about the patch?".
+    * **Missed Deeper Exploration of "Don't want to be there":** When the client says "You know I just really don’t want to be there" (referring to people with oxygen tanks), this is a strong statement of negative consequences and a potential motivator for change. The therapist acknowledges it ("Yeah, yeah. That’s a lot to be concerned about.") but doesn't deeply explore this fear or use it to further evoke change talk.
+    * **Shifting to Problem Solving too Quickly:** The conversation moves into problem-solving mode (patch, weight gain strategies) relatively quickly, perhaps before fully exploring and solidifying the client's own motivations and reasons for change.
+
+**Why not a higher score?**
+
+* **Not a 4:**  A score of 4 requires *consistent* efforts to encourage change talk. While there are some efforts, they are not consistent throughout the interaction. The therapist sometimes gets pulled into problem-solving or information-giving, missing opportunities to deepen change talk.
+* **Not a 5:** A score of 5 requires a *marked and consistent effort* to increase the depth, strength, or momentum of change talk. This interaction does not demonstrate that level of strategic and sustained focus on cultivating change talk.
+
+**Why not a lower score?**
+
+* **Not a 2 or 1:** The therapist is not ignoring change talk. They do acknowledge the client's concerns about health and the desire to quit. They are not actively undermining change talk or solely focusing on sustain talk.
+
+**In summary,** the therapist demonstrates some awareness of change talk and responds to it at times, but there are noticeable missed opportunities to strategically deepen and strengthen the client's language in favor of change.  Therefore, a global score of **3** for Cultivating Change Talk is the most appropriate rating based on the provided transcript and MITI guidelines.

@@ -1,0 +1,37 @@
+Sheet Number: 20
+Prompt Number: 2
+==================================================
+Based on the transcript provided and the MITI Global Scores for Empathy, I would assign a global score of **4** for Empathy.
+
+Here's my reasoning, based on the MITI scoring criteria and examples from the transcript:
+
+**Score of 4 Justification:**
+
+A score of 4 indicates that the clinician "makes active and repeated efforts to understand the client's point of view. Shows evidence of accurate understanding of the client's worldview, although mostly limited to explicit content."  Let's look at specific examples from the transcript that support this score:
+
+* **Conveys interest in the client's perspective or situation:**  Throughout the conversation, the therapist (P) consistently asks open-ended questions to understand the client's (C) experience and perspective. Examples include:
+    *  "What is your understanding of that?" (initial open question)
+    *  "What have you heard about? What have you read about?" (exploring client's knowledge)
+    *  "What do you think about that as a possibility?" (seeking client's reaction to suggestion)
+    *  "What are you thinking about doing going forward?" (eliciting client's plan)
+
+* **Offers accurate reflections of what the client has said already:** The therapist frequently uses reflections to check their understanding and demonstrate active listening. Examples include:
+    *  "You’re looking for some things that you can do yourself and hopefully get off the pills long term but still help the healing and cut back on the symptoms." (Reflecting client's desire for self-management and reducing medication)
+    *  "So it started to make sense when you heard about your symptoms and matched them with your own and honestly started paying closer attention to it." (Reflecting client's understanding of the diagnosis)
+    *  "Yeah. And so looking back, losing weight and cutting out alcohol really seemed to help for you." (Reflecting client's past experience and connecting it to current situation)
+    *  "It sounds like you are really determined and I can understand. It sounds like your voice is your livelihood." (Reflecting client's determination and understanding the importance of their voice)
+    *  "Sure.There’s a number of things to balance. And you know if sounds like most of the time you are able to capture that 3 hour window and let the digestion settle down before you go to sleep." (Reflecting client's challenges and efforts to balance different factors)
+
+* **Effectively communicates understanding of the client's viewpoint:** The therapist's reflections are generally accurate and demonstrate an understanding of the client's concerns, motivations, and experiences.  They acknowledge the client's worry about their voice, their desire to avoid long-term medication, and their efforts to find self-management strategies.
+
+* **Expresses that the client's concerns or experiences are normal or similar to others':** While not explicitly stating "normal or similar to others," the therapist's statement "It is right in line with what we recommend to people in your situation" implicitly normalizes the client's situation and plan.
+
+**Why not a Score of 5?**
+
+While the therapist demonstrates good empathy, there isn't strong evidence of consistently understanding the client "beyond what the client says in session" or using "many accurate complex reflections" that anticipate unspoken meanings. The reflections are primarily focused on the explicit content of the client's statements.  A score of 5 would require more consistent demonstration of deeper, more inferential understanding.
+
+**Why not a Score of 3 or lower?**
+
+The therapist is clearly actively trying to understand the client's perspective and is more than "modestly successful" (Score of 3). They are not just making "sporadic efforts" (Score of 2) or giving "little or no attention" (Score of 1) to the client's viewpoint. The therapist's reflections are generally accurate and helpful, not misinterpretations or shallow attempts at understanding.
+
+**In summary, the therapist in this transcript demonstrates a solid level of empathy, actively seeking to understand the client's perspective and effectively communicating that understanding through accurate reflections and open questions. This aligns well with a Global Score of 4 for Empathy on the MITI.**

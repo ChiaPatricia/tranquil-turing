@@ -1,0 +1,35 @@
+Sheet Number: 3
+Prompt Number: 1
+==================================================
+## Softening Sustain Talk Global Score: 4
+
+**Rationale:**
+
+Based on the transcript and the MITI Global Score descriptions for Softening Sustain Talk, I would assign a global score of **4**.
+
+**Explanation:**
+
+The therapist in this transcript demonstrates a consistent effort to avoid dwelling on the client's sustain talk, which primarily revolves around:
+
+* **Justification for past parenting methods:**  The client initially defends his physical discipline by referencing his own upbringing and the need for his son to be strong and respectful.
+* **Concerns about authority and image:** The client worries that seeking help will diminish his authority and image in the eyes of others.
+* **Reservations about the group format:** The client expresses discomfort with women being in the parenting class and a preference for a male-only group.
+
+Here's why a score of 4 is appropriate, referencing the MITI criteria:
+
+* **Avoids Explicitly Asking for Sustain Talk:** The therapist does not ask questions that directly solicit arguments against change or difficulties in changing.  Instead, the therapist opens with a broad, open-ended question about the referral.
+* **Minimal Attention to Sustain Talk:** When the client expresses sustain talk, the therapist acknowledges it, primarily through reflections, but does not linger or delve deeply into these reasons for maintaining the status quo. For example:
+    * When the client expresses his desire for his son to understand authority and not be weak, the therapist reflects "Mm hmm. You would like some respect from your son." This acknowledges the client's point without extensive exploration.
+    * When the client expresses discomfort with women in the group, the therapist reflects "Um hmm. That’s a little bit not what you wanted." Again, this is a brief acknowledgement before moving on.
+* **Does Not Seek Elaboration of Sustain Talk:** The therapist does not actively probe for more details or examples of the client's reasons to maintain the current parenting style or his concerns about seeking help.  The focus remains on understanding the client's perspective and gently guiding the conversation towards change.
+* **Lack of Curiosity and Focus on Reasons to Maintain Status Quo:** The therapist's questions and reflections are primarily oriented towards understanding the client's feelings and experiences, and exploring potential avenues for change, rather than deeply investigating the client's justifications for the status quo.
+* **Does Not Linger in Discussions about Barriers:** While the client mentions barriers (like concerns about image and the group format), the therapist acknowledges them but quickly redirects the conversation towards the client's willingness to try new approaches and the potential benefits of change.
+
+**Why not a score of 5?**
+
+While the therapist is doing well in softening sustain talk, they are not consistently employing the techniques described for a score of 5, such as:
+
+* **Structured Therapeutic Tasks to Shift Focus:** There is no evidence of structured tasks being used to actively redirect the conversation away from sustain talk.
+* **Double-Sided Reflections Ending with Change Talk Consistently:** While the therapist uses double-sided reflections (e.g., "Even though you want your son to have the input of a father, you don’t want your son to be afraid."), they are not always explicitly structured to end with a reflection of change talk to deliberately move away from sustain talk.
+
+**In summary,** the therapist effectively avoids reinforcing or deepening sustain talk by giving it minimal attention and gently guiding the conversation towards change-oriented topics. This aligns well with a global score of 4 for Softening Sustain Talk, indicating "Clinician typically avoids an emphasis on client language favoring the status quo."  To move towards a score of 5, the therapist could consider more actively employing techniques to strategically shift the focus away from sustain talk, as described in the MITI criteria for that level.

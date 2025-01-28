@@ -1,0 +1,55 @@
+Sheet Number: 11
+Prompt Number: 4
+==================================================
+```xml
+<feedback>
+## Feedback on Cultivating Change Talk Global Score
+
+Based on the transcript provided and the MITI guidelines, I would score the therapist a **3** on the Cultivating Change Talk global score.
+
+**Score: 3**
+
+**Rationale:**
+
+The therapist in this transcript demonstrates a mixed approach to cultivating change talk. They are not completely missing opportunities, but they are also not consistently and strategically maximizing them to deepen the client's motivation for change. Here's a breakdown based on the MITI scoring criteria:
+
+**Strengths (Aligned with Score 3 & some aspects of 4):**
+
+* **Attends to Change Talk:** The therapist does acknowledge and respond to some instances of client change talk. For example, when the client mentions being willing to get smaller fries and cut out milkshakes, the therapist acknowledges this as "a step in the right direction."  They also affirm the client's exercise.
+    * *Example:*
+        * **Client:**  "...I could maybe not get the big fries and get the smaller fries."
+        * **Therapist:** "Well, that’s a step, that’s definitely a step in the right direction."
+* **Expresses some curiosity:** The therapist asks "Why do you say that?" when the client says "I wonder why I even go to Arby’s," showing some curiosity about the client's evolving thoughts.
+    * *Example:*
+        * **Client:** "I wonder why I even go to Arby’s."
+        * **Therapist:** "Why do you say that?"
+* **Offers Resources:** The therapist offers helpful resources like the cookbook and dietician, which can be seen as supporting change, although the manner of offering could be more aligned with eliciting client interest first.
+
+**Areas for Improvement (Reasons for not scoring higher than 3, and opportunities to move towards a 4 or 5):**
+
+* **Missed Opportunities to Deepen Change Talk:**  While the therapist acknowledges change talk, they often miss opportunities to explore it further and deepen the client's own reasons for change. Reflections are often simple acknowledgements rather than complex reflections that could evoke deeper exploration.
+    * *Example:* When the client says, "Well, I thought about doing it and if there was a way that it could be easier, I might actually do it," the therapist responds with empathy ("I hear what you’re saying. It’s very difficult to figure this out."). While empathic, this misses an opportunity to explore the "easier way" or to ask about what makes it difficult, which could elicit more change talk.
+* **Directive Approach at Times:** The therapist occasionally slips into a more directive style, which can shut down change talk and increase sustain talk.
+    * *Example:* "Don’t you think it’s worth it?" is a leading question that could pressure the client and elicit defensiveness, which it does in this case.
+    * *Example:* "Well, Janie I think getting the smaller fries is a step in the right direction but I really don’t think that’s enough. I think you really have to put more effort into this." This statement is quite directive, minimizes the client's stated change, and could increase resistance. It tells the client what *the therapist* thinks is enough, rather than exploring what the client thinks is possible or meaningful for them.
+* **Focus on Problems/Solutions too Early:** The therapist spends time problem-solving and offering solutions (cookbook, dietician) before fully exploring the client's own motivation and reasons for change.  While helpful, in MI, it's generally more effective to evoke the client's own ideas and reasons first.
+* **Not Strategically Eliciting Change Talk:** The therapist doesn't appear to be strategically using specific MI techniques to evoke change talk, such as:
+    * **Evocative Questions:**  Questions designed to elicit the client's own reasons, desires, abilities, and needs for change.
+    * **Exploring Values:**  Connecting the change goal to the client's values and what is important to them.
+    * **Looking Back/Looking Forward:** Exploring past successes or future aspirations related to health or well-being.
+
+**Recommendations to Improve Cultivating Change Talk (Moving towards a 4 or 5):**
+
+* **Increase Use of Complex Reflections:**  Move beyond simple reflections to use more complex reflections that reflect meaning, amplify change talk, or reflect ambivalence in a way that encourages the client to resolve it towards change.
+* **Ask More Evocative Questions:**  Incorporate open-ended questions that specifically target change talk. Examples:
+    * "What are some of the good things that might happen if you made some changes to your diet?" (Desire)
+    * "What makes you even consider making these changes, even though it seems difficult?" (Reasons)
+    * "What strengths do you have that could help you make these changes?" (Ability)
+    * "How important is it to you to make these dietary changes at this time?" (Need/Importance)
+* **Explore Values:**  Ask questions that link dietary changes to the client's values.  "What's important to you in your life right now?" and then connect that to health and diet.
+* **Minimize Directiveness:**  Reduce directive statements and leading questions. Focus on exploring the client's perspective and supporting their autonomy. Reframe statements like "I really don’t think that’s enough" to more open-ended inquiries like, "What are your thoughts on whether smaller fries is enough to meet your doctor's recommendations?" or "Where does that leave you in terms of what your doctor suggested?"
+* **Focus on Eliciting Client's Own Solutions:** Before offering solutions, ask the client what they think might work for them. "What ideas do you have about making dietary changes that might be easier for you?"
+
+**In summary,** the therapist demonstrates some awareness of cultivating change talk, but there are significant opportunities to enhance their skills by being more intentional and strategic in eliciting, reinforcing, and deepening the client's own motivation for change using core MI techniques. Focusing on reducing directiveness and increasing the use of evocative questions and complex reflections would be beneficial.
+</feedback>
+```

@@ -1,0 +1,38 @@
+Sheet Number: 1
+Prompt Number: 4
+==================================================
+Based on the transcript provided and the MITI Global Score - Cultivating Change Talk descriptions, I would give this interaction a global score of **4** for Cultivating Change Talk.
+
+Here's my reasoning:
+
+**Evidence for a Score of 4:**
+
+* **Consistently attends to client's language about change and makes efforts to encourage it:** The therapist actively listens to the client's expressions of ambivalence and gently guides the conversation towards the disadvantages of smoking and the client's emerging thoughts about quitting.
+    * **Examples:**
+        * When the client mentions "there’s a part that says, “You really don’t want to, or you shouldn’t,”" the therapist reflects this ambivalence: "Mm hmm. On the one hand you really like it, and it’s good for you – helps you, and on the other hand you’re noticing some things you don’t like about it..."
+        * The therapist picks up on the client's statement "You know there’s gonna come a time when I’m gonna put these down" and reflects "You’re thinking about it."
+        * The therapist asks open-ended questions to explore the client's perspective on quitting, such as "And what do you think has kept you from trying...?" and "I wonder what things you’ve thought of to make yourself successful once that decision comes to you, “OK, now I’m going to do it.”"
+        * The therapist uses the importance and confidence rulers to directly elicit change talk related to importance and confidence in quitting.
+
+* **Often responds to change talk with reflections:** The therapist frequently uses reflections to respond to the client's change talk, acknowledging and validating the client's statements.
+    * **Examples:**
+        * Client: "Yes. It’s entered my mind many times in the last year or so."  Therapist: "And you’ve thought about quitting."
+        * Client: "Yes. I think I see it sooner than a year. I think I see it sooner." Therapist: "Even sooner."
+        * Client: "Absolutely. I know it" Therapist: "You know you’re going to quit."
+
+* **Expresses curiosity when clients offer change talk:** The therapist shows genuine interest and curiosity when the client expresses thoughts about change.
+    * **Examples:**
+        * Asking "And what do you think has kept you from trying...?" after the client mentions thinking about quitting.
+        * Asking "And how is that going to happen for you?" when the client talks about the "two roads" intersecting.
+
+* **May explore client's values, strengths, hopes and past successes related to target goal:** While not explicitly focused on past successes in quitting smoking (as the client states he hasn't tried), the therapist does explore the client's values implicitly by discussing what is important to him now regarding smoking (cost, social stigma, health concerns) compared to the past (positive associations).
+
+**Why not a Score of 5?**
+
+* **Does not consistently shape the client's language in favor of change to a marked degree:** While the therapist encourages change talk, the interaction is more exploratory and reflective than actively "shaping" the client's language towards stronger commitment. The reflections are often simple and could be used more strategically to deepen the client's exploration of their own reasons for change.
+* **Does not explicitly use structured therapeutic tasks:** The interaction is conversational and doesn't incorporate specific structured tasks designed to elicit and reinforce change talk, as mentioned in the Score of 5 description.
+* **Could build momentum of change talk more strategically:** While the therapist responds to change talk, there are moments where deeper exploration could have been pursued to further strengthen the client's motivation. For example, when the client says "It’s time," the therapist could have explored "What makes it feel like it's time now?" to elicit more elaborative change talk.
+
+**In summary:**
+
+The therapist demonstrates good MI skills in cultivating change talk by actively listening, reflecting, and exploring the client's ambivalence and emerging motivation to quit smoking. The interaction is focused on the change goal and the therapist consistently attends to and encourages change talk.  However, there are opportunities to further enhance the cultivation of change talk by using more complex reflections, strategic questioning to deepen exploration, and potentially incorporating structured techniques to strengthen the client's commitment and momentum towards change. Therefore, a score of **4** accurately reflects the therapist's performance in Cultivating Change Talk in this segment.

@@ -1,0 +1,47 @@
+Sheet Number: 9
+Prompt Number: 4
+==================================================
+## Feedback on Cultivating Change Talk: Global Score = 2
+
+Based on the transcript provided, I would give a global score of **2** for Cultivating Change Talk.
+
+Here's my reasoning, drawing from the MITI description for a score of 2 and contrasting it with other scores:
+
+**Justification for Score of 2:**
+
+* **Sporadic Attention to Change Talk:** The therapist does acknowledge some instances of change talk from Cheryl. For example, when Cheryl expresses concern about her drinking quantity, the therapist reflects "So you’re worried about how much you are drinking."  Later, when Cheryl suggests "cutting down," the therapist acknowledges this with "Cutting down."
+* **Frequently Missed Opportunities:**  However, the therapist frequently misses opportunities to deeply explore and amplify Cheryl's change talk.  Let's look at some examples:
+    * **Cheryl:** "Um, well maybe it’s a little bit harder to get up in the morning; I feel a little bit more fuzzy-headed than usual."  This is a clear statement of a negative consequence and a potential reason for change.
+    * **Therapist:** "But nothing that would make you want to change anything." This is a closed question that assumes sustain talk and actually minimizes the change talk Cheryl just offered.  A more "4" or "5" level response would have been to explore this further, like "Tell me more about that fuzzy-headed feeling," or "So you're noticing some physical effects from the increased drinking."
+    * **Cheryl:** "Yeah, I think so and the reason why I think so is because I’d much rather take care of it now and cut down than have to quit completely later because I’ve really let it become a problem. So that might be a good idea, to kind of get a handle on it now." This is strong change talk, expressing concern about the problem and a desire to take action.
+    * **Therapist:** "If you can cut back now, you won’t have to quit altogether." This reflection is okay, but it focuses on *avoiding quitting* rather than exploring Cheryl's stated reasons for change ("take care of it now," "let it become a problem," "get a handle on it"). A stronger response would have been to reflect the underlying concern and motivation, like "It sounds like you're really seeing this as something you want to address proactively before it becomes a bigger issue."
+* **Superficial Attention:**  The attention to change talk often feels superficial. The therapist tends to reflect back the surface level of what Cheryl is saying but doesn't probe deeper to understand the underlying motivations, values, or concerns related to change.
+* **Lack of Curiosity:** There isn't a strong sense of curiosity about Cheryl's own reasons for change, her values related to drinking, or her hopes for the future if she were to make a change. The therapist asks "What are you worried about?" initially, but doesn't consistently follow up on change talk with open-ended questions that encourage deeper exploration.
+
+**Why not a score of 1?**
+
+The therapist is not completely ignoring change talk. They do reflect some of Cheryl's statements that lean towards change.  A score of 1 would be more indicative of the therapist only focusing on history-taking, problems, or providing education without any attention to the client's own change language.
+
+**Why not a score of 3 or higher?**
+
+A score of 3 would indicate that the clinician "often attends" to change talk and only "misses *some* opportunities." In this transcript, the missed opportunities are quite frequent and impactful.  The therapist also introduces advice and information prematurely ("It doesn’t work for everyone") which can be counter to cultivating change talk, especially when the client is still exploring their ambivalence.
+
+Scores of 4 and 5 require consistent and marked efforts to encourage and deepen change talk, which are not evident in this interaction.
+
+**Recommendations for Improvement:**
+
+To improve their Cultivating Change Talk score, the therapist could focus on:
+
+* **Deep Reflections:**  Reflect not just the surface content of change talk, but also the underlying meaning, emotion, and intention.
+* **Open-ended Questions Focused on Change Talk:**  When Cheryl offers change talk, follow up with open-ended questions that explore her reasons, motivations, values, and confidence related to change. Examples:
+    * "You mentioned feeling fuzzy-headed in the morning. What else makes you say that you're wondering about your drinking?"
+    * "What are some of the good things about 'getting a handle on it now'?"
+    * "What would be different for you if you were drinking at the level you were before?"
+* **Minimize Closed Questions that Assume Sustain Talk:** Avoid questions like "But nothing that would make you want to change anything?" which can shut down change talk.
+* **Roll with Resistance and Sustain Talk:** When Cheryl expresses sustain talk or resistance (like disagreeing about cutting down), roll with it rather than directly challenging it. Explore her perspective and values.
+* **Strategic Use of Evocative Questions:**  Use evocative questions designed to elicit change talk, such as:
+    * "What are some of the downsides of your current drinking level?"
+    * "If you were to decide to make a change, what would be your reasons for doing so?"
+    * "What are your hopes for your health and well-being?"
+
+By focusing on these areas, the therapist can become more effective at cultivating change talk and moving towards higher scores on this crucial MITI global dimension.

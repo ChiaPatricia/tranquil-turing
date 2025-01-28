@@ -1,0 +1,39 @@
+Sheet Number: 12
+Prompt Number: 3
+==================================================
+Based on the transcript provided and the MITI Global Scores for Partnership, I would score this interaction a **4** for Partnership.
+
+Here's my reasoning, drawing from the MITI descriptions:
+
+**Score of 4 Justification:**
+
+* **"Clinician fosters collaboration and power sharing so that client's contributions impact the session in ways that they otherwise would not."**  The therapist does this to a good extent.  They start by asking "why don’t you tell me what brings you in today?" which immediately invites the client's perspective.  Throughout the session, the therapist asks questions that solicit the client's thoughts and feelings about quitting, such as:
+    * "And what are some of the things you get out of smoking that you enjoy about it?" (exploring client's perspective on smoking)
+    * "What are some of the benefits of quitting?" (exploring client's perspective on quitting)
+    * "So have you thought anything about how you might go about quitting?" (exploring client's ideas)
+    * "What do you think you can do?" (directly asking for client solutions)
+    * "Well what do you think? Something else might work for you." (inviting client to generate alternatives)
+    * "What do you think about that?" (seeking client's opinion on the patch)
+
+* **"Some structuring of the session to ensure client input."** While not explicitly stated, the therapist's questioning style implicitly structures the session to include client input. They consistently return to asking the client for their thoughts and ideas.
+
+* **"Searches for agreement on problem definition, agenda setting, and goal setting."**  The problem definition is established early on by the client ("my doctor said I’m well on my way to a case of emphysema so I guess it’s time I quit smoking"). The agenda is implicitly focused on quitting smoking. While not explicitly negotiated, the therapist does follow the client's lead and explores the client's concerns and ideas related to quitting.
+
+* **"Solicits client views in more than a perfunctory fashion."** The therapist's questions are genuine attempts to understand the client's perspective, not just superficial inquiries. They follow up on the client's responses and explore them further.
+
+* **"Engages client in problem solving or brainstorming."**  When the client expresses concerns about what to do with his hands and weight gain, the therapist engages in a degree of problem-solving by asking "What do you think you can do?" and "Well what do you think? Something else might work for you."
+
+* **"Does not attempt to educate or direct if client 'pushes back' with sustain talk."**  While there isn't strong "push back" in this transcript, when the client expresses doubt or concerns (e.g., "I don’t know how I’m going to give this up," "aren’t you just still on the nicotine?"), the therapist generally responds with reflections and further questions rather than directly arguing or pushing for a specific solution.
+
+**Why not a Score of 5?**
+
+* **"Genuinely negotiates the agenda and goals for the session."** While the therapist starts with an open question, the agenda is somewhat pre-set (quitting smoking). There isn't explicit negotiation of the session's goals beyond this.
+* **"Explicitly identifies client as the expert and decision maker."** The therapist doesn't explicitly state that the client is the expert.  There are moments where the therapist takes on more of an expert role, such as when explaining how the patch works and offering suggestions like carrot sticks and Welbutrin.
+* **"Tempers advice giving and expertise depending on client input."** While the therapist does solicit client input, they also offer advice and information relatively readily.  A score of 5 would suggest a more pronounced tempering of advice-giving and a greater emphasis on purely evoking the client's own solutions.
+* **"Clinician favors discussion of client's strengths and resources rather than probing for deficits."**  While the conversation isn't overly focused on deficits, it's not strongly oriented towards strengths and resources either. The focus is primarily on the challenges and concerns related to quitting.
+
+**Why not a Score of 3 or lower?**
+
+The therapist is clearly not dominating the conversation (Score 1) or superficially responding to collaboration (Score 2). They are actively engaging with the client's perspective and attempting to work collaboratively.  While there are elements of advice-giving and direction, it's not "lukewarm or erratic" collaboration (Score 3). The therapist is making a genuine effort to understand and involve the client in the conversation about change.
+
+**In summary, a score of 4 reflects a good level of Partnership where the therapist fosters collaboration and seeks client input, but there are still opportunities to deepen the partnership by more explicitly negotiating the agenda, emphasizing client expertise, and tempering advice-giving.**

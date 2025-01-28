@@ -1,0 +1,43 @@
+Sheet Number: 14
+Prompt Number: 4
+==================================================
+Based on the transcript provided and the MITI Global Score descriptions for Cultivating Change Talk, I would give this interaction a global score of **4**.
+
+Here's my reasoning, drawing from the MITI descriptions and examples from the transcript:
+
+**Score of 4 Justification:**
+
+* **"Clinician consistently attends to the client's language about change and makes efforts to encourage it."**  The therapist demonstrates this throughout the session, particularly in the latter half.
+
+    * **Example:**  When the client says "Yeah, I mean, look I know it’s not good for me. Umm…", the therapist interrupts to highlight this change talk: "Can I interrupt you for a sec because you’ve said that a few times today. That you know it’s not good for you and you’ve mentioned your kids and your wife and it sounds like they’re really important to you and, um, you did come to see me today. You are worried about your health." This is a clear effort to acknowledge and amplify the client's own recognition of the negative aspects of smoking and his values related to health and family.
+
+* **"More often than not, acknowledges client reasons for change and explores when they are offered."** The therapist does acknowledge reasons for change when the client offers them.
+
+    * **Example:** When the client mentions "I don’t want to get sick and I don’t want to have lung cancer. My grandfather passed away of lung cancer from smoking and I don’t want to get to that point and I don’t want to have to waste away like that", the therapist responds with "Mmm hmm. It’s who you are." While this response could be debated in terms of its effectiveness (as it might be interpreted as sustain talk), it is immediately followed by the client clarifying "I don’t know if it’s who I am, but it’s very much a part of me." This shows the therapist is listening and responding to the client's statements, even if the initial reflection could be refined.  Later, the therapist more directly acknowledges the client's concerns about health and family.
+
+* **"Often responds to change talk with reflections that do not encourage deeper exploration from the client."**  This is somewhat true in the transcript. While the therapist uses reflections, they are often focused on sustain talk and ambivalence.  However, there are also reflections that do move towards change talk, even if not always deeply exploratory.
+
+    * **Example:**  When the client says "If I could just get over that hump and just be done with it, that would be great. But I just don’t, I mean I’ve tried and I just don’t think I can do it", the therapist reflects "Getting there has been really hard for you."  This reflection acknowledges the difficulty but also sets the stage for the client to potentially elaborate on the "getting over the hump" part, which is change-oriented.
+
+* **"Expresses curiosity when clients offer change talk."** The therapist shows curiosity, particularly when interrupting to highlight the client's statements about knowing smoking is bad and being worried about health.
+
+* **"May explore client's values, strengths, hopes and past successes related to target goal."**  While not explicitly in depth, the therapist touches upon values (family, health) when highlighting the client's statements.  There isn't deep exploration of strengths or past successes in this short segment, but the foundation is laid for future exploration.
+
+**Why not a Score of 3 or 5?**
+
+* **Not a Score of 3:**  While the therapist does spend time reflecting sustain talk, they move beyond simply "often attending" to change talk. They actively make efforts to encourage it, especially in the latter part of the conversation.  They are not just passively listening; they are actively trying to guide the conversation towards change, even if subtly.
+
+* **Not a Score of 5:** The interaction doesn't consistently demonstrate a "marked and consistent effort to increase the depth, strength, or momentum of the client's language in favor of change" throughout the *entire* segment.  While the therapist does this in moments, it's not a pervasive strategy from the beginning.  The therapist spends a significant portion of the session exploring ambivalence and sustain talk before more directly focusing on cultivating change talk.  A score of 5 would typically involve more strategic and consistent use of techniques to elicit and deepen change talk from the outset.  There are also missed opportunities to explore the client's initial concerns from the doctor more deeply in terms of personal motivation early in the conversation.
+
+**Areas for Potential Improvement (Moving towards a 5):**
+
+* **Earlier and More Proactive Elicitation of Change Talk:**  In the beginning, after understanding the doctor's recommendation, the therapist could have more directly elicited change talk by asking questions like:
+    * "What are some things that make you think quitting smoking might be a good idea for you?"
+    * "What are your hopes for your health in the future?"
+    * "What are some things your doctor said that resonated with you?"
+
+* **Deepening Change Talk Reflections:** When reflecting change talk, the therapist could use more complex reflections that encourage deeper exploration. For example, instead of just "Getting there has been really hard for you," the therapist could have reflected something like: "So, on the one hand, you really wish you could just be past the quitting part and enjoy the benefits, and it sounds incredibly frustrating because every time you've tried, that 'getting there' part has been so overwhelming." This type of reflection acknowledges the difficulty while also highlighting the desire for the positive outcome of quitting.
+
+* **Strategic Use of Evocative Questions:**  Throughout the conversation, the therapist could strategically weave in more evocative questions designed to elicit change talk related to different aspects of motivation (Desire, Ability, Reasons, Need).
+
+**In conclusion, a global score of 4 for Cultivating Change Talk is a fair and accurate assessment of this interaction. The therapist demonstrates good foundational MI skills by attending to and encouraging change talk, but there are opportunities to further refine their approach to more consistently and strategically deepen the client's motivation for change.**

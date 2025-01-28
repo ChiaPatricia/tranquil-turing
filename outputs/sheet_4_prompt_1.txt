@@ -1,0 +1,24 @@
+Sheet Number: 4
+Prompt Number: 1
+==================================================
+Global Score for Softening Sustain Talk: 4
+
+**Feedback:**
+
+The therapist demonstrates a generally good approach to softening sustain talk in this interaction, earning a global score of 4.  Here's a breakdown of why a score of 4 is appropriate and some specific feedback for improvement:
+
+**Strengths (Aligned with Score of 4):**
+
+* **Avoids Explicitly Asking for Reasons Not to Change:** The therapist does not directly ask Barry to elaborate on why he *shouldn't* quit or the benefits of smoking. This is a key element of softening sustain talk.
+* **Minimal Attention to Sustain Talk:** While the therapist acknowledges Barry's sustain talk, they don't dwell on it or give it undue weight. For example, when Barry says "It’s a bunch of bullshit," the therapist responds with "Right. OK." – a minimal acknowledgement that doesn't invite further elaboration on the "bullshit" aspect.
+* **Does Not Seek Elaboration of Sustain Talk:**  The therapist doesn't probe deeply into Barry's reasons for maintaining the status quo.  They don't ask questions like "Tell me more about why you think it's bullshit" which could deepen sustain talk.
+* **Lack of Curiosity and Focus on Reasons to Maintain Status Quo:** The therapist's focus is clearly on moving the conversation towards change talk, even if it's done in a slightly directive way. They are not particularly curious about exploring Barry's resistance in depth.
+* **Does Not Linger in Discussions about Barriers to Change:**  When Barry brings up his enjoyment of smoking and lack of conviction about smoking causing his current situation, the therapist acknowledges it briefly ("Sure. I do understand you had an injury playing sport which was nothing to do with smoking.") and then quickly pivots to the negative impact of smoking on his recovery and the next stage of the program.
+
+**Areas for Potential Growth (Moving towards a Score of 5):**
+
+* **Missed Opportunities for Double-Sided Reflections:** While the therapist doesn't deepen sustain talk, they also miss opportunities to use double-sided reflections to gently move away from it. For example, when Barry says, "I’ve chosen to go ahead and take those because I really enjoy smoking, and quite frankly, I can’t really, from my own experience, I’m not really convinced that it was my smoking that’s put me in the situation I’m in today," the therapist could have used a double-sided reflection like:  "So on the one hand, you really enjoy smoking and it feels like a choice you're making, *and* on the other hand, the doctor is concerned about the impact on your surgery recovery."  This acknowledges the sustain talk (enjoyment, disbelief in link) but immediately juxtaposes it with change talk (doctor's concern).
+* **Less Directive Approach:**  While not directly related to *softening* sustain talk, the therapist's somewhat directive approach ("And we’re hoping that that will give you the will power to really think about giving it a go. Do you see what I’m saying?") could be softened to be more evocative of the client's own motivation.  A less directive style can indirectly reduce sustain talk by making the client feel less defensive.
+* **Exploring Values and Discrepancies (Future Sessions):** To move towards a score of 5 in future interactions, the therapist could proactively explore Barry's values and identify potential discrepancies between his current behavior (smoking) and his values (e.g., health, recovery, independence). This can naturally shift the conversation away from sustain talk by focusing on what is important to Barry and how smoking might be in conflict with those values.
+
+**In summary, the therapist in this transcript demonstrates a good understanding of softening sustain talk by avoiding its amplification.  With some refinement in using techniques like double-sided reflections and a continued focus on client-centeredness, the therapist can further enhance their skills in this area and move towards a score of 5.**

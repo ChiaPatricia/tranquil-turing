@@ -40,11 +40,65 @@ def get_gemini_response(system_instruction: str, contents: str) -> str:
     )
     return response.text
 
-# Read the system prompt
-with open('prompts/00-MITI-system-prompt.md', 'r') as f:
-    system_prompt = f.read().strip()
+def read_markdown_files(folder_path: str) -> list[str]:
+    """
+    Read all markdown files from a specified folder and return their contents as a list of strings.
+    
+    Args:
+        folder_path (str): Path to the folder containing markdown files
+        
+    Returns:
+        list[str]: List of strings, where each string is the content of a markdown file
+    """
+    markdown_contents = []
+    
+    # Walk through the folder
+    for filename in os.listdir(folder_path):
+        if filename.endswith('.md'):
+            file_path = os.path.join(folder_path, filename)
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    markdown_contents.append(f.read())
+            except Exception as e:
+                print(f"Error reading {filename}: {str(e)}")
+                
+    return markdown_contents
 
-response_text = get_gemini_response(system_prompt, "Add real prompt here.")
-print(response_text)
+prompts = read_markdown_files('./prompts')
+
+system_prompt = prompts[0]
+
+def build_prompt(reference_prompt: str, transcript: str) -> str:
+    return reference_prompt + "\n <transcript> \n" + transcript + "\n </transcript> \n"
+
+def process_transcripts():
+    # Create output directory if it doesn't exist
+    os.makedirs('outputs', exist_ok=True)
+    
+    # Process sheets 1 through 20
+    for sheet_num in range(1, 21):
+        transcript = get_selected_columns(all_sheets, sheet_num)
+        
+        # Process each reference prompt
+        for i, reference_prompt in enumerate(prompts[1:], 1):
+            prompt = build_prompt(reference_prompt, transcript)
+            try:
+                response = get_gemini_response(system_prompt, prompt)
+                
+                # Write to file
+                output_file = f'outputs/sheet_{sheet_num}_prompt_{i}.txt'
+                with open(output_file, 'w', encoding='utf-8') as f:
+                    f.write(f"Sheet Number: {sheet_num}\n")
+                    f.write(f"Prompt Number: {i}\n")
+                    f.write("=" * 50 + "\n")
+                    f.write(response)
+                    
+                print(f"Processed sheet {sheet_num} with prompt {i}")
+                
+            except Exception as e:
+                print(f"Error processing sheet {sheet_num} with prompt {i}: {str(e)}")
+
+# Run the processing
+process_transcripts()
 
 ##TODO: Read in each prompt, connect it with the contents of the interview, and generate a response

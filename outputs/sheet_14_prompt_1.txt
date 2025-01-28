@@ -1,0 +1,47 @@
+Sheet Number: 14
+Prompt Number: 1
+==================================================
+## Feedback on Softening Sustain Talk
+
+Based on the transcript provided, here is a global score and feedback for **Softening Sustain Talk**:
+
+**Global Score: 2**
+
+**Rationale:**
+
+This session demonstrates a **Score of 2** for Softening Sustain Talk.  Here's why, referencing the MITI scoring criteria:
+
+* **Focus on Sustain Talk:** The therapist frequently explores, focuses on, and responds to the client's reasons to maintain the status quo (smoking).  A significant portion of the conversation revolves around the client's enjoyment of smoking, the benefits it provides (breaks, stress relief), and the difficulties and negative experiences associated with past quit attempts.
+
+* **Deepening Discussion of Barriers:** The therapist often deepens the discussion of barriers and difficulties of change when the client mentions them. For example:
+    * **Client:** *"I’ve tried a couple of times to quit over the years and I got grumpy and fussed at my wife and fussed at my kids and you know and just would get really tense at work and you know and it just wasn’t a good thing."*
+    * **Therapist:** *"Mm hmm. So you’re worried, really actually about what things would be like if you quit"* - This reflection further explores the *worry* and negative consequences of quitting, deepening the sustain talk.
+    * **Client:** *"after a week of just yelling at everybody and just being irritable and stuff I can’t, you know, I have a hard time being with myself."*
+    * **Therapist:** *"Mmm hmm. Yeah, it didn’t make sense for you to keep going trying to do it."* - This reflection validates the client's justification for *not* quitting, again deepening the sustain talk.
+
+* **Reflecting Benefits of Status Quo:** The therapist reflects the benefits of smoking multiple times:
+    * **Client:** *"it’s nice to be able to take a break and maybe step outside and have a minute to myself and enjoy a cigarette and think over the problem and come back in sort of refreshed and re-energized"*
+    * **Therapist:** *"Uh huh. So it’s a nice break for you; let’s you clear your head"* - This reflection highlights and reinforces the positive aspects of smoking.
+    * **Client:** *"after dinner it’s a nice little time to sort of relax."*
+    * **Therapist:** *"Mmm hmm. It’s who you are."* - While perhaps intended to be empathic, reflecting "it's who you are" in response to a benefit of smoking can inadvertently solidify the client's identity with the behavior, further reinforcing sustain talk.
+
+* **Missed Opportunities to Shift:**  While the therapist uses MI-consistent techniques like reflections and open questions, these are primarily directed towards exploring sustain talk. There are missed opportunities to more actively shift the focus towards change talk earlier in the session.  The shift only begins to occur much later when the therapist interrupts to point out the client's own change talk ("*Can I interrupt you for a sec because you’ve said that a few times today...*").
+
+**Areas for Improvement:**
+
+* **Earlier Shift to Change Talk:**  While exploring sustain talk is important for understanding the client's perspective, in this session, it dominates the conversation for too long.  Consider more proactively shifting the focus towards change talk earlier. This could involve:
+    * **Strategic Reflections:** While reflecting sustain talk, consider using double-sided reflections that link sustain talk to change talk, or reflections that pivot towards exploring ambivalence. For example, after reflecting the client's enjoyment of smoking as a break, the therapist could have followed with: *"And at the same time, you're also here because your doctor is concerned about your health, so it sounds like there's a bit of a push and pull."*
+    * **Open Questions to Evoke Change Talk:**  While open questions were used, they often elicited more sustain talk.  Consider questions specifically designed to evoke change talk, such as:
+        * *"What are some things that might be good about quitting smoking for you?"*
+        * *"If you were to decide to make a change, what would be some reasons for that?"*
+        * *"What are your hopes for your health in the future?"*
+    * **Minimize Elaboration of Sustain Talk:** While acknowledging sustain talk is crucial, avoid excessive probing or dwelling on it.  After a brief reflection of sustain talk, try to gently guide the conversation towards change talk.
+
+* **Balance Rapport with Direction:** Building rapport is essential, and attending to sustain talk can be part of that. However, remember the purpose of MI is to facilitate change.  Ensure that while building rapport, you are also strategically guiding the conversation towards exploring the client's motivation for change.
+
+**Strengths:**
+
+* **Use of Reflections:** The therapist uses reflections frequently, which is a core MI skill.
+* **Empathy:** The therapist demonstrates empathy by acknowledging the client's perspective and the difficulty of quitting.
+
+**In summary,** while the therapist uses some MI-consistent techniques, the session leans heavily towards exploring and reinforcing sustain talk, resulting in a lower score for Softening Sustain Talk. By incorporating strategies to more actively and earlier shift the focus towards change talk, the therapist can improve their ability to guide the client towards considering change and increase their Softening Sustain Talk score in future interactions.

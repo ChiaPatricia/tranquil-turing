@@ -1,0 +1,39 @@
+Sheet Number: 6
+Prompt Number: 4
+==================================================
+Based on the transcript provided and the MITI Global Score descriptions for Cultivating Change Talk, I would give this interaction a global score of **4** for Cultivating Change Talk.
+
+Here's my rationale:
+
+**Evidence for a Score of 4 - "Clinician consistently attends to the client's language about change and makes efforts to encourage it."**
+
+* **Recognizes and Explores Change Talk:** The therapist effectively picks up on and explores the client's emerging change talk throughout the conversation.  Initially, the client expresses sustain talk ("I enjoy it," "I don’t see the link between smoking and my surgery"). However, as the conversation progresses, the client starts to voice concerns and disadvantages of smoking. The therapist consistently acknowledges and explores these:
+    * **Client:** "To be honest, it’s putting a big dent in my pocket. It’s an expensive habit."
+    * **Therapist:** "So it costs you." (Simple reflection, acknowledging the change talk)
+    * **Client:** "Oh, absolutely, not to mention, in the morning I cough. I have a really, really bad cough."
+    * **Therapist:** "Right. So there’s something about your body feeling a bit challenged by this." (Reflective listening, deepening the exploration of physical discomfort)
+    * **Client:** "Yeah. Well also my cardio fitness , you know, it’s affecting my game on the field, too, so yeah, I want to do well for my team."
+    * **Therapist:** "What do you notice about the effect of smoking on your sport?" (Open question, further exploring the impact on a valued area - rugby)
+    * **Client:** "Well, there is a history of heart disease in my family."
+    * **Therapist:** "And so there’s a bit of a worry you have about what the condition of your heart might be." (Reflection, connecting smoking to a significant health concern)
+
+* **Expresses Curiosity:** The therapist demonstrates curiosity when the client offers change talk, prompting further exploration.  Questions like "What do you notice about the effect of smoking on your sport?" and "Is there anything else about it that you’re concerned about that you haven’t mentioned?" show genuine interest in understanding the client's perspective on the downsides of smoking.
+
+* **Explores Values (Implicitly):** While not explicitly asking about values, the therapist touches upon values by exploring the client's desire to perform well in rugby and his concern for his health given his family history.  This implicitly connects change to things the client cares about.
+
+* **Acknowledges Reasons for Change:** The therapist consistently acknowledges the client's reasons for change through reflections and summaries.  The final summary effectively captures the client's ambivalence and potential openness to change under certain conditions (no side effects, affordable aids).
+
+**Why not a Score of 5? - "Clinician shows a marked and consistent effort to increase the depth, strength, or momentum of the client's language in favor of change."**
+
+* **Limited Depth and Shaping:** While the therapist is good at acknowledging and exploring change talk, there isn't strong evidence of *shaping* the client's language to significantly increase the depth or momentum of change talk. The conversation is more exploratory and information-gathering.
+* **Missed Opportunities for Deeper Exploration:**  While the therapist is generally responsive, there might be minor opportunities missed to delve even deeper into the client's motivations. For example, when the client mentions "I want to do well for my team," the therapist could have explored this further with questions like "What would doing well for your team mean to you?" or "How important is your rugby performance to your overall sense of self?" to potentially strengthen the motivational link.
+* **Lack of Structured Tasks:** The interaction is conversational and doesn't incorporate structured therapeutic tasks designed to elicit and reinforce change talk, which is characteristic of a score of 5.
+
+**Why not a Score of 3 or lower? - "Clinican often attends to the client's language in favor of change, but misses some opportunities to encourage change talk." or lower scores.**
+
+* **Consistently Attends to Change Talk:** The therapist is clearly *not* missing opportunities to encourage change talk in a significant way. They are actively listening for and responding to the client's statements that indicate a desire or reason to change.  They are not prioritizing sustain talk or other topics over change talk.
+* **More than Superficial Attention:** The therapist's responses are not superficial. They are using reflections and open questions to delve into the client's concerns and motivations, demonstrating more than just "sporadic" or "superficial" attention to change talk (scores 1 and 2).
+
+**In Summary:**
+
+The therapist in this transcript demonstrates good MI skills in cultivating change talk, consistently attending to and exploring the client's emerging reasons for considering change.  They create a space for the client to explore their ambivalence. While there's room for growth towards a score of 5 by more strategically shaping change talk and potentially using more structured techniques, the current performance is solid and indicative of a score of 4 for Cultivating Change Talk.

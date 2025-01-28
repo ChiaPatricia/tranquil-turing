@@ -1,0 +1,30 @@
+Sheet Number: 19
+Prompt Number: 4
+==================================================
+## Global Score - Cultivating Change Talk: 3
+
+**Rationale:**
+
+Based on the transcript and the MITI scoring criteria for Cultivating Change Talk, a score of **3** appears to be the most appropriate. Here's a breakdown of why:
+
+**Strengths (Moving towards a 3):**
+
+* **Attends to Client Language:** The therapist generally listens attentively to the client and reflects her statements.  She picks up on the client's confusion, overwhelm, and the evolving understanding of her situation. Examples include:
+    * Reflecting the client's feeling of being overwhelmed: *"Yeah. Yeah. So right now you’re feeling a little overwhelmed with everything that’s going on, and you’re not even sure where to start."*
+    * Summarizing the relationship history and the recent incident: *"So in the history of the relationship over this year, it’s kind of been in and out in a way, and there have been some incidents where you’ve had some arguments and then you separated for a while and gotten back together. It does sound like something pretty significant happened that sort of freaked everybody out."*
+    * Reflecting the client's surprise at her own thinking: *"But you’ve mentioned that a couple times now that it sort of surprises you the way you are thinking about and the way you are approaching it. You’re recognizing or seeing that you have spent a lot of time agonizing over, over the relationship and why things are happening in the relationship or what it really means. You’ve spent a lot of time there, and that kind of surprises you that you might be thinking about it differently."*
+
+* **Some Attention to Change-Related Topics:** The therapist introduces topics that are relevant to potential change, such as finances, safety planning, and returning to work.  She asks open-ended questions related to these areas, like *"Well, what are your thoughts right now about some of the options out there for you to do, if anything? What are you thinking about?"* and *"What thoughts do you have about how you might go about balancing that and thinking about, thinking about that? What have you thought about?"*
+
+**Areas for Improvement (Preventing a higher score and indicating a 3):**
+
+* **Missed Opportunities to Deepen Change Talk:** While the therapist acknowledges the client's statements, she often misses opportunities to explore change talk more deeply.  For example, when the client says *"These things; a job and learning how to be a better mother, be a ... might help the relationship, so that might be ...",* the therapist reflects back *"So it might be a way, focusing on yourself, get a job or look at the possibility of doing that, at the same time trying to incorporate taking care of your child. Those things might help you; free you up then to figure out what to do about the relationship."*  This reflection is okay, but it could be strengthened by asking a question that further explores the *client's reasons* for thinking this way, or the *potential benefits* of focusing on these areas.  For instance, she could have asked: *"That's interesting that you see focusing on a job and mothering might help the relationship.  How do you see those things connecting?"* or *"What are some of the ways you think focusing on yourself in these areas might be helpful for you?"*
+
+* **Limited Exploration of Client's Own Reasons for Change:** The therapist primarily focuses on understanding the client's situation and offering potential topics for discussion. She doesn't consistently probe for the client's *own* reasons for wanting things to be different, her values related to change, or her confidence in making changes.  The conversation is more exploratory and less focused on evoking the client's intrinsic motivation for change.
+
+* **Not Strategically Eliciting Change Talk:** The therapist doesn't appear to be strategically using specific MI techniques to elicit change talk, such as:
+    * **Evocative Questions:**  While she asks open questions, they are not always specifically designed to elicit change talk (e.g., "What are the good things about things staying as they are?" or "What would be the benefits of making a change?").
+    * **Exploring Decisional Balance (after change talk emerges):**  When the client expresses some desire for change (e.g., wanting to work, feeling burdened by the relationship focus), the therapist doesn't explicitly explore the pros and cons of change *from the client's perspective* to further solidify change talk.
+    * **Using Change Talk Reflections:** While she reflects client statements, she could more actively reflect change talk specifically to amplify it and encourage further exploration.
+
+**In summary:** The therapist demonstrates a foundational level of attending to the client and exploring her situation. She touches upon topics related to change. However, she misses opportunities to actively and strategically cultivate change talk by not consistently probing for the client's own motivations, exploring the benefits of change, and using specific MI-consistent techniques to deepen the client's language in favor of change. This aligns with a score of **3** on the Cultivating Change Talk global scale, indicating "Clinican often attends to the client's language in favor of change, but misses some opportunities to encourage change talk."

@@ -1,0 +1,48 @@
+Sheet Number: 18
+Prompt Number: 1
+==================================================
+## Softening Sustain Talk Global Score: 3
+
+**Rationale:**
+
+Based on the transcript and the MITI Global Score descriptions for Softening Sustain Talk, I would assign a global score of **3**. Here's my reasoning:
+
+**Evidence for a Score of 3:**
+
+*   **Preference for Sustain Talk:** The therapist frequently reflects and explores the client's sustain talk throughout the session.  The majority of the therapist's reflective statements directly address the client's arguments against change, such as feeling forced, unfairly treated, and concerns about the company's policies. Examples include:
+    *   "So you are feeling kind of forced to come in."
+    *   "So it feels like you kind of got singled out. That it’s really not fair."
+    *   "So even if what happened with the drug test is right, it still doesn’t feel like it is the right thing."
+    *   "So even when you look around and see how others are treated, it feels like you are treated, have been treated differently just because you choose to use marijuana instead of alcohol."
+    *   "Right. It feels like it is kind of a punishment almost in a way."
+    *   "So, we might even be, it feels like we might even be ... have an investment in keeping you here longer or keeping you back a little in order to, you know, sort of ... for our own purposes."
+
+    These reflections, while demonstrating empathy and understanding the client's perspective, primarily keep the conversation focused on the client's resistance and reasons *not* to engage in change related to his marijuana use.
+
+*   **Some Instances of Shifting Focus:** There are a few instances where the therapist attempts to shift the focus away from sustain talk, though these are not consistently or strongly pursued:
+    *   "Yeah, yeah. So given that you don’t want to be here, what do you think, what would be helpful for you? It sounds like you might be interested in trying to figure out how to work through this, but I don’t know. What would you like to do?" This question attempts to move towards problem-solving, but it is immediately followed by "but I don’t know. What would you like to do?" which softens the directive and allows the client to easily return to sustain talk.
+    *   "Uh huh, yeah. It does sound like you are pretty interested in keeping, in having the job. Tell me about that, tell me about how you feel about your job." This is a better attempt to shift towards values and potential change talk related to job retention. However, this line of questioning is not sustained, and the conversation quickly reverts to the client's complaints and sustain talk.
+
+*   **Missed Opportunities:** The therapist misses opportunities to more actively soften sustain talk and evoke change talk. For example:
+    *   **Double-sided reflections ending with change talk:**  When the client expresses feeling torn about stopping smoking to get through the process but being scared of alternatives, the therapist reflects this ambivalence ("So you kind of feel torn about it...").  However, the therapist could have used a double-sided reflection ending with change talk to gently nudge towards considering change, such as: "So you feel torn, on the one hand, wanting to get through this quickly and maybe needing to stop smoking, *and* on the other hand, feeling unsure and worried about what that would be like."
+    *   **Exploring values and goals more directly:** While the therapist touches on the client's job, they could have more explicitly explored the client's values related to work, responsibility, health, or other areas that might be impacted by his marijuana use. Connecting the conversation to these values could have created dissonance with his current sustain talk and opened the door for change talk.
+    *   **Lack of structured tasks:** The therapist does not employ any structured tasks to shift the focus away from sustain talk, as suggested in the score of 5 description.
+
+**Why not a lower or higher score?**
+
+*   **Not a Score of 2:** While the therapist frequently attends to sustain talk, they don't *usually choose to explore, focus on, or respond to client’s reasons to maintain the status quo* in a way that *deepens* the discussion of barriers excessively. The reflections are generally brief and empathetic, not overly probing into the details of the sustain talk.
+*   **Not a Score of 4 or 5:** The therapist does not *typically avoid an emphasis on client language favoring the status quo* (score of 4) or show a *marked and consistent effort to decrease sustain talk* (score of 5). The conversation remains heavily weighted towards sustain talk, and the therapist's attempts to shift focus are minimal and not very effective.
+
+**In summary,** the therapist demonstrates empathy by reflecting the client's sustain talk, which is a core MI skill. However, in terms of *Softening Sustain Talk*, the therapist's approach is primarily reactive and does not actively guide the conversation away from resistance.  Therefore, a score of **3** accurately reflects that the therapist gives preference to sustain talk but shows some limited and less effective attempts to shift focus.
+
+**Recommendations for Improvement:**
+
+To improve their Softening Sustain Talk score, the therapist could focus on:
+
+*   **Strategic use of reflections:** While reflecting sustain talk is important, balance it with reflections that also highlight any glimmer of change talk or values.
+*   **Employing double-sided reflections ending in change talk:**  This technique can help acknowledge sustain talk while gently guiding the conversation towards change.
+*   **More actively shifting focus:**  After briefly acknowledging sustain talk, intentionally pivot to exploring values, goals, or potential benefits of change.
+*   **Using open-ended questions to evoke change talk:**  Instead of primarily reflecting sustain talk, ask more questions designed to elicit the client's own reasons for change.
+*   **Considering structured tasks:** In situations with high sustain talk, consider using brief structured tasks to shift the focus and explore ambivalence in a different way.
+
+By incorporating these strategies, the therapist can become more effective at softening sustain talk and creating a more change-oriented conversation.

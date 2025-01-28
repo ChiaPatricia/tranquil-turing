@@ -1,0 +1,36 @@
+Sheet Number: 17
+Prompt Number: 2
+==================================================
+Based on the transcript provided and the MITI Global Score descriptions for Empathy, I would assign a global score of **3** for Empathy.
+
+**Rationale:**
+
+**Score of 3 Description:** "Clinician is actively trying to understand the client's perspective, with modest success."
+
+**Evidence from the Transcript that aligns with a Score of 3:**
+
+* **Attempts at Reflection:** The therapist uses reflections throughout the conversation, indicating an attempt to understand the client's perspective. Examples include:
+    * "Right right. So you don’t see the drinking as the cause of all this. You think, you know, you’re having this stomach issue and the drinking’s not really related."
+    * "It doesn’t really fit with you, you don’t really see yourself as having a drinking problem"
+    * "Right right. Drinking is...so it’s something that you do in a lot of ways to cope with some of the stress you’ve got going on."
+    * "Right right. It’s a big change for you potentially"
+    * "Right. So making some changes seems like it would work for you but you’re not willing to cut back all the way to one"
+    * "Right right. So cooking dinner is really what’s most important here for you"
+
+* **Attempt to Grasp Client's Meaning:** The therapist is trying to follow the client's narrative and understand her point of view, particularly regarding the reasons for her drinking and her perception of the problem.
+
+* **Modest Success:** While reflections are present, they are often relatively simple and focused on the explicit content.  The therapist doesn't consistently delve into deeper, unstated emotions or anticipate what the client might be feeling beyond what she directly says.  There are moments where the therapist seems to move towards information-giving or advice rather than staying with the client's perspective.
+
+**Why not a Score of 4?**
+
+**Score of 4 Description:** "Clinician makes active and repeated efforts to understand the client's point of view. Shows evidence of accurate understanding of the client's worldview, although mostly limited to explicit content."
+
+While the therapist does make repeated efforts, the depth and consistency of demonstrating *accurate* understanding of the client's *worldview* is not as strong as a score of 4 would suggest.  A score of 4 implies a more consistent and effective communication of understanding.  In this transcript, the empathy feels more intermittent and less consistently impactful.  The reflections are often accurate but don't consistently demonstrate a deep grasp of the client's underlying feelings or motivations beyond the surface level.
+
+**Why not a Score of 2?**
+
+**Score of 2 Description:** "Clinician makes sporadic efforts to explore the client's perspective. Clinician's understanding may be inaccurate or may detract from the client's true meaning."
+
+The therapist is making more than "sporadic" efforts.  The reflections, while not always deep, are generally accurate and don't typically misinterpret the client's meaning.  The therapist is engaged in trying to understand, even if it's not at a consistently high level.
+
+**In summary, the therapist in this transcript demonstrates a level of empathy that is consistent with a score of 3. They are making an active attempt to understand the client's perspective through reflections and by following her narrative, but the depth and consistency of this empathy are still developing.**

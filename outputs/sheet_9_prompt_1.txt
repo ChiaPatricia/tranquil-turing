@@ -1,0 +1,29 @@
+Sheet Number: 9
+Prompt Number: 1
+==================================================
+## Softening Sustain Talk Global Score: 2
+
+**Feedback:**
+
+Based on the transcript provided and the MITI Global Score descriptions for Softening Sustain Talk, I would score this segment a **2**.
+
+**Justification:**
+
+A score of 2 indicates that the therapist "Usually chooses to explore, focus on, or respond to client’s reasons to maintain the status quo."  This aligns with several instances in the transcript where the therapist's responses tend to deepen the discussion around the client's sustain talk.
+
+Here are specific examples from the transcript that support a score of 2:
+
+* **Deepening discussion of barriers/difficulties:**  When the client minimizes her drinking as not causing "problems" like "blacking out or something or causing trouble in my family or having fights," the therapist reflects, "But you don’t see any consequences resulting from it." (P utterance after C's "Well, I think they’re noticing a difference maybe in amount...") This reflection, while accurate, keeps the focus on the *lack* of problems, reinforcing the sustain talk.
+* **Asking about barriers repeatedly:** While not explicitly asking about barriers in a direct question like "What are the barriers to change?", the therapist repeatedly probes the client's perspective on why her drinking *isn't* a problem and what others are saying *is* a problem.  Questions like "What are they saying about your drinking?" and "And what do you make of that?" further explore the external pressure and the client's justifications for maintaining the status quo.
+* **Reflecting benefits of the status quo:**  The therapist reflects sustain talk without consistently pairing it with change talk or shifting the focus. For example, after the client mentions feeling "fuzzy-headed," the therapist responds with "But nothing that would make you want to change anything." This reflection emphasizes the lack of motivation to change, further exploring the sustain talk domain.
+
+**Areas for Improvement:**
+
+To improve the Softening Sustain Talk score, the therapist could focus on the following:
+
+* **Minimize exploration of sustain talk:** While acknowledging sustain talk is important for empathy, the therapist could be more concise in reflections of sustain talk and avoid lingering on it.
+* **Shift focus to change talk:** After briefly acknowledging sustain talk, the therapist could more actively pivot the conversation towards exploring the client's own concerns, values, and potential benefits of change. For example, after the client says "But you don’t see any consequences resulting from it," the therapist could have responded with something like, "And yet you mentioned you were wondering 'what's going on' with your drinking. What are some of your concerns about that increase?" This would shift the focus back to the client's initial concern (change talk) rather than dwelling on the sustain talk.
+* **Avoid eliciting sustain talk:** Questions like "But nothing that would make you want to change anything" can inadvertently invite more sustain talk.  Instead, focus on open-ended questions that explore ambivalence and potential change talk.
+* **Use double-sided reflections more strategically:**  When sustain talk emerges, consider using double-sided reflections to link it with previously expressed change talk. For example, "On the one hand, you enjoy drinking to relax, and on the other hand, you're noticing you feel more fuzzy-headed in the morning.  It sounds like you're weighing some different things here."
+
+By making these adjustments, the therapist can more effectively "soften" sustain talk and guide the conversation towards change talk, ultimately enhancing their Motivational Interviewing skills.

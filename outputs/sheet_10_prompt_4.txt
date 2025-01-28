@@ -1,0 +1,39 @@
+Sheet Number: 10
+Prompt Number: 4
+==================================================
+## Global Score - Cultivating Change Talk: 2
+
+**Rationale:**
+
+Based on the transcript and the MITI guidelines for Cultivating Change Talk, a score of **2** is appropriate for this interaction. Here's why:
+
+* **Sporadic Attention to Change Talk:** The therapist shows some awareness of the need to address the client's substance use and probation requirements, which are related to change. For example, the therapist asks "How do you think you’re going to do that?" (referring to quitting pot) and acknowledges the client's past week of abstinence with "Oh that’s great Joe. That’s really great." and "Well, you were able to do it." These utterances indicate some attention to the topic of change.
+
+* **Frequently Missed Opportunities to Encourage Change Talk:**  Despite these moments, the therapist frequently misses opportunities to genuinely explore and deepen the client's own motivations for change.  Instead, the therapist often defaults to:
+    * **Questioning and Interrogation:** Many questions are closed-ended or feel like interrogations rather than open explorations (e.g., "Had you been smoking pot that day?", "And you don’t consider that under the influence?", "So you’re different from everybody else?", "Four joints and a dime bag?").
+    * **Providing Information/Education:** The therapist introduces studies about the negative consequences of pot use, which is more of a persuasive or educational approach ("Well, you know there’s been a number of studies that have been done that have found that excessive pot use can have incredibly detrimental consequences."). This is not eliciting the client's own reasons for change.
+    * **Expressing Surprise/Disbelief:**  The therapist expresses surprise at the client's lack of concern ("I’m surprised that you don’t see some of the negative consequences."). This can be perceived as judgmental and shut down further exploration of the client's perspective.
+    * **Focusing on Problems and Deficits:** The therapist spends a significant amount of time focusing on the client's problem behavior and lack of insight, rather than exploring potential values, strengths, or hopes that could be linked to change.
+    * **Not Deepening Change Talk:** When the client *does* offer some change talk (e.g., mentioning memory lapses), the therapist acknowledges it briefly but doesn't explore it further to strengthen it.
+
+* **Lack of Curiosity about Client's Values and Strengths:** The therapist shows little to no curiosity about the client's values, strengths, hopes, or past successes *related to the change goal* beyond the brief mention of quitting in Alaska. The conversation remains largely focused on the problem and the client's resistance.
+
+**Examples from the Transcript Supporting a Score of 2:**
+
+* **Missed Opportunity (Line 45):** When the client mentions quitting in the past, the therapist acknowledges it ("Well, you were able to do it.") but doesn't deeply explore *how* the client was able to do it, what that experience was like, or what strengths they might have used. This could have been a moment to elicit more change talk and build confidence.
+* **Superficial Attention (Line 77):** When the client mentions "maybe my memory would get better" as a potential benefit of quitting, the therapist simply responds "So right now you don’t have very much motivation." This dismisses the client's statement and doesn't explore the potential concern about memory as a possible motivator.
+
+**In summary,** while the therapist touches upon the topic of change, the interaction is characterized by missed opportunities to cultivate change talk. The therapist's approach is more focused on questioning, informing, and expressing surprise, rather than actively eliciting and reinforcing the client's own language in favor of change. This pattern aligns with a global score of **2** for Cultivating Change Talk.
+
+**Recommendations for Improvement:**
+
+To improve their Cultivating Change Talk score, the therapist could focus on:
+
+* **Asking more open-ended questions** that explore the client's own reasons for change, values, and concerns related to their substance use.
+* **Reflecting change talk** when it is offered, and using reflections that encourage deeper exploration (e.g., complex reflections, amplified reflections).
+* **Eliciting and exploring the client's values** and how those values might be connected to the change goal.
+* **Exploring the client's strengths and past successes** in overcoming challenges, and how those strengths could be applied to reducing substance use.
+* **Reducing the use of closed questions, confrontation, and unsolicited advice/information.**
+* **Becoming more curious and less judgmental** about the client's perspective.
+
+By shifting their focus from problem-focused questioning and information-giving to eliciting and reinforcing the client's own motivations for change, the therapist can significantly improve their ability to cultivate change talk.

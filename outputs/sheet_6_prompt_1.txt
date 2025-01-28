@@ -1,0 +1,21 @@
+Sheet Number: 6
+Prompt Number: 1
+==================================================
+Based on the transcript provided and the MITI Global Score - Softening Sustain Talk descriptions, I would assign a global score of **4** for Softening Sustain Talk.
+
+Here's my reasoning:
+
+**Evidence for Score of 4:**
+
+* **"Clinician typically avoids an emphasis on client language favoring the status quo."**  The therapist in this transcript does not actively solicit sustain talk.  While the client initially presents with sustain talk ("I’m not really quite certain why I’m here. I don’t see the link between smoking and my surgery."), the therapist acknowledges this but quickly moves to explore the client's feelings about smoking more broadly ("could I ask you, you know, how you feel about your smoking?").
+* **"Does not explicitly ask for reasons not to change."** The therapist does not ask questions like "What are the downsides of quitting?" or "Why might you *not* want to change?".
+* **"Minimal attention to sustain talk when it occurs."** When the client offers sustain talk (e.g., "I enjoy it," "But I do also know you can get hit by a bus if you don’t"), the therapist acknowledges it briefly ("Sure. Sure.") but doesn't dwell on it or explore it in depth.
+* **"Does not seek elaboration of sustain talk."**  The therapist doesn't ask follow-up questions to deepen the sustain talk. For example, after "I enjoy it," the therapist doesn't ask "What exactly do you enjoy about it?" to further explore the benefits of smoking. Instead, the therapist often pivots to explore change talk or ambivalence.
+* **"Lack of curiosity and focus on client's reasons to maintain the status quo."** The therapist's curiosity seems to be directed more towards understanding the client's ambivalence and exploring potential reasons *to* change, rather than deeply understanding the reasons *not* to change.
+* **"Does not linger in discussions about barriers to change."** While the client brings up barriers like side effects and cost of cessation aids, the therapist addresses these concerns by providing information and acknowledging them, but doesn't get stuck in a prolonged discussion solely focused on these barriers.
+
+**Why not a Score of 5?**
+
+While the therapist is doing a good job of softening sustain talk, it's not a perfect "5".  A score of 5 would indicate a "marked and consistent effort to decrease the depth, strength, or momentum of the client's language in favor of the status quo."  While the therapist avoids *emphasizing* sustain talk, they do reflect it at times (e.g., "So you say that your smoking is something that you actually enjoy.").  This reflection is MI-consistent and shows empathy, but it's not a *marked and consistent effort to decrease* sustain talk as much as it is to acknowledge it and move on.  A score of 5 might involve more active strategies like double-sided reflections consistently ending on change talk, or using therapeutic tasks to explicitly shift focus away from sustain talk, which are not prominently demonstrated in this short excerpt.
+
+**In summary:** The therapist demonstrates good MI skills in Softening Sustain Talk by not emphasizing it, not exploring it deeply, and gently guiding the conversation towards change talk.  However, it's not a "textbook perfect" example of actively and consistently diminishing sustain talk, hence a score of 4 is most appropriate.

@@ -1,0 +1,39 @@
+Sheet Number: 13
+Prompt Number: 1
+==================================================
+## Softening Sustain Talk Global Score: 2
+
+**Rationale:**
+
+Based on the transcript and the MITI Global Score descriptions for Softening Sustain Talk, a score of **2** is the most appropriate. Here's why:
+
+* **Prevalence of Sustain Talk and Therapist's Response:** The client, Randy, presents a significant amount of sustain talk throughout the session. He minimizes his drinking, rationalizes his DUI as bad luck, compares his drinking to others, and denies concerns about his drinking's impact. The therapist consistently responds to this sustain talk, but not in a way that softens or skillfully navigates it using Motivational Interviewing principles.
+
+* **Focus on Sustain Talk:** The therapist frequently engages with Randy's sustain talk directly.  Instead of gently reflecting or sidestepping the sustain talk, the therapist often challenges it head-on. Examples include:
+    * **Direct Confrontation:** "So Randy you know at this treatment center we don’t treat bad luck. That’s not what we do here. And we don’t work for the judge. We work for people who want to change their lives." This statement directly confronts Randy's minimization ("bad luck") and sets up a confrontational dynamic rather than softening sustain talk.
+    * **Challenging Minimization:** When Randy says "I don’t drink that much," the therapist immediately counters with the calculation of 48 beers a week and labels it as "48 standard drinks." While factually accurate, this response directly challenges Randy's perception rather than exploring the underlying reasons for his minimization.
+    * **Using Information as Confrontation:** Sharing the blood alcohol level (.23) is done in a way that feels more like a "gotcha" moment to prove Randy wrong ("Yeah I can hold my liquor") rather than to gently explore potential discrepancies between Randy's perception and objective data.
+    * **Framing AA in a Confrontational Way:**  Recommending AA by saying "at an AA meeting they’re not going to put up with a lot of denial and minimization and the kind of thing I’ve been hearing form you here. They’re gonna you know really basically demand that you be honest about your problem" frames AA as a place of confrontation rather than support and exploration, and reinforces a confrontational stance from the therapist.
+
+* **Lack of MI-Consistent Softening Techniques:** The therapist does not employ techniques to soften sustain talk as described in the MITI guidelines for higher scores. There is no evidence of:
+    * **Double-sided reflections ending with change talk:** The therapist does not use double-sided reflections to pivot away from sustain talk.
+    * **Structured therapeutic tasks to shift focus:** No structured tasks are used to redirect the conversation away from sustain talk.
+    * **Minimal attention to sustain talk:** The therapist actively engages with and responds to almost every instance of sustain talk, often deepening the discussion around it, albeit in a confrontational manner.
+    * **Lack of curiosity about reasons *not* to change:** While the therapist is curious about Randy's drinking behavior, there is no genuine curiosity about Randy's perspective or the underlying reasons for his resistance to change.
+
+* **Score 2 Justification:**  A score of 2 aligns with the description: "Usually chooses to explore, focus on, or respond to client’s reasons to maintain the status quo."  While "explore" might be too generous a term given the confrontational nature, the therapist *does* consistently *respond* to and *focus on* Randy's reasons for maintaining the status quo (his sustain talk). The therapist frequently deepens the discussion of barriers and reasons not to change by directly challenging and arguing against Randy's points, even if the intention is to promote change.
+
+**In summary, the therapist in this transcript consistently engages with and responds to the client's sustain talk, often in a confrontational and challenging manner, without employing MI-consistent techniques to soften or navigate it. This pattern of interaction aligns most closely with a Softening Sustain Talk global score of 2.**
+
+**Recommendations for Improvement:**
+
+To improve their Softening Sustain Talk score, the therapist could focus on:
+
+* **Reducing Confrontation:**  Avoid directly challenging or arguing with the client's sustain talk.
+* **Employing Reflections of Sustain Talk (with a twist):**  Use simple or amplified reflections of sustain talk to acknowledge it without dwelling on it. For example, when Randy says "I just don’t see that as that much of a problem," the therapist could reflect: "So it feels like this is not a big deal for you right now." and then immediately shift to a different area.
+* **Shifting Focus to Change Talk:**  Look for any openings for change talk, even small ones, and amplify those.  When Randy says "Well you know I guess that might be one of my concerns then," this is a tiny opening for change talk that could be explored further.
+* **Exploring Values and Discrepancies:** Gently explore Randy's values and look for discrepancies between his current behavior and what he values. This can evoke change talk without directly confronting sustain talk.
+* **Using Double-Sided Reflections:** When sustain talk arises, use double-sided reflections to acknowledge both sides of the ambivalence and then pivot towards change talk. For example, "On the one hand, you feel like your drinking is not a problem compared to your friends, and on the other hand, you are here because the judge has mandated counseling." (ending with the reason for counseling, which implies a desire to avoid jail - a form of change talk).
+* **Strategic Silence:** Sometimes, simply not responding to sustain talk and allowing silence can naturally shift the conversation away from it.
+
+By incorporating these MI-consistent strategies, the therapist can learn to soften sustain talk more effectively and guide the conversation towards change talk in a more collaborative and less confrontational manner.

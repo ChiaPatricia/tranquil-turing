@@ -1,0 +1,22 @@
+Sheet Number: 20
+Prompt Number: 1
+==================================================
+Based on the transcript provided and the MITI Global Score descriptions for Softening Sustain Talk, I would assign a global score of **5**.
+
+Here's my reasoning based on the transcript and the scoring criteria:
+
+* **Absence of Eliciting Sustain Talk:** The therapist (P) does not explicitly ask for reasons *not* to change or query difficulties in changing.  She starts by understanding the client's (C) understanding of the situation and then moves towards exploring solutions and what the client has already tried.
+
+* **Minimal Attention to Sustain Talk:** When the client expresses sustain talk, the therapist acknowledges it briefly but does not dwell on it or explore it in depth. For example, when the client says "I just can’t see that it’s a problem for me anyway" regarding spicy foods, the therapist immediately pivots to commending the client on other positive steps taken.
+
+* **Redirection from Sustain Talk:** The therapist consistently redirects the conversation away from sustain talk and towards change talk.  After acknowledging the client's concerns or difficulties, she quickly shifts the focus to the client's strengths, past successes, and potential solutions.  For instance, after the client expresses difficulty with the 3-hour eating window due to social situations and sleep, the therapist acknowledges the balance and then immediately reframes it positively by highlighting the client's ability to achieve the 3-hour window "most of the time."
+
+* **Focus on Change-Oriented Topics:** The therapist consistently guides the conversation towards exploring solutions, strategies, and the client's own ideas for change.  She asks questions like "What else have you heard about?" and "What do you think about that as a possibility?" which are designed to elicit change talk and explore options.
+
+* **Affirmations and Strengths-Based Approach:** The therapist frequently uses affirmations, highlighting the client's determination, proactive steps, and past successes. This reinforces change talk and builds momentum in a positive direction, further softening any sustain talk that arises.  Examples include "I hear you talk and I just have to commend you for all of the steps you have already take" and "You’re doing really good work!!"
+
+**Why Score of 5?**
+
+The therapist demonstrates a "marked and consistent effort to decrease the depth, strength, or momentum of the client's language in favor of the status quo."  She doesn't just avoid emphasizing sustain talk (which might be a score of 4), but actively and skillfully redirects away from it and towards change.  There are no instances where the therapist lingers on barriers or explores reasons not to change. The entire interaction is focused on understanding the client's concerns and collaboratively exploring solutions, minimizing any focus on sustain talk.
+
+Therefore, based on the MITI guidelines and the observed behaviors in the transcript, a global score of **5** for Softening Sustain Talk is most appropriate.

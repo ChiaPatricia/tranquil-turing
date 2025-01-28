@@ -1,0 +1,40 @@
+Sheet Number: 7
+Prompt Number: 4
+==================================================
+## Global Score for Cultivating Change Talk: 3
+
+**Feedback:**
+
+Based on the transcript provided and the MITI guidelines for "Cultivating Change Talk," I would assign a global score of **3**.
+
+**Justification:**
+
+A score of 3 indicates that the clinician "often attends to the client's language in favor of change, but misses some opportunities to encourage change talk."  Let's break down why this score is appropriate based on the transcript:
+
+**Strengths (Examples of Attending to Change Talk):**
+
+* **Recognizing and Reflecting Change Talk:** When the client expresses a desire to change their exercise habits ("I would find the most helpful, how do I stop finding all the excuses to not go exercise?"), the therapist acknowledges and reflects this.  For example, "So you feel that it’s something that it’s important for you to do." This is a basic reflection of importance change talk.
+* **Exploring Benefits of Change:** The therapist asks open-ended questions to explore the benefits of exercise, such as "In what way? How would this improve your life? How do you see that?". This successfully elicits change talk as the client lists several benefits (energy, weight, A1C, sleep).
+* **Summarizing Change Talk and Ambivalence:** The therapist effectively summarizes the client's change talk and acknowledges the ambivalence ("So you can see all these good reasons why it would be a good idea, but you hit a barrier..."). This shows attention to the client's change-oriented statements.
+* **Exploring Small Steps:** The therapist attempts to move towards action planning by suggesting small steps to overcome the barrier ("And I wonder what you think might be just the first small step that could help you through that barrier."). This is a strategy to facilitate change.
+* **Affirming Client's Agency and Insight:** The therapist validates the client's self-awareness and insights, such as when the client identifies their negative self-talk as a barrier ("Well, it certainly sounds like it for you, that if you could not be saying those things to yourself, the barrier would feel a bit better.").
+
+**Missed Opportunities (Examples of Not Deepening Change Talk):**
+
+* **Superficial Reflections:** While the therapist reflects change talk, many reflections are quite simple and don't necessarily deepen the client's exploration. For example, "So you feel that it’s something that it’s important for you to do" is a reflection, but it doesn't encourage the client to elaborate *why* it's important or explore their values related to exercise.
+* **Equal Attention to Sustain Talk:**  The therapist spends a considerable amount of time reflecting and acknowledging the client's sustain talk ("I don’t like it!", "So the thought of taking exercise is just not a pleasant one for you."). While acknowledging sustain talk is important in MI, in this transcript, it feels like the therapist might be giving equal or even slightly more weight to sustain talk than strategically guiding the conversation back to change talk.
+* **Lack of Deeper Exploration of Values/Strengths:**  While the therapist briefly touches on benefits, there isn't a deeper exploration of the client's underlying values or past successes related to health or overcoming challenges.  Connecting exercise to broader values could strengthen the client's motivation.
+* **Missed Opportunity to Explore "I don't like it!":** When the client states "I don't like it!", this could have been an opportunity to explore *why* they don't like it. Understanding the reasons behind the dislike could reveal potential avenues for reframing exercise or finding more appealing activities. Instead, the therapist primarily reflects the dislike without further exploration.
+* **Premature Problem Solving/Action Planning:** While exploring small steps is helpful, it might be slightly premature before fully exploring and solidifying the client's motivation and change talk.  Spending a bit more time evoking "why" change is important *before* jumping to "how" could be beneficial.
+
+**Recommendations for Improvement:**
+
+To increase the "Cultivating Change Talk" score, the therapist could focus on:
+
+* **Using more complex reflections:** Move beyond simple reflections to amplified reflections, double-sided reflections, and reflections that focus on feeling or meaning. This can help deepen the client's exploration of their own motivations.
+* **Strategic use of open-ended questions:**  While open questions are used, they could be more strategically focused on eliciting specific types of change talk (Desire, Ability, Reasons, Need - DARN). For example, instead of just "How would this improve your life?", questions could be more targeted like "What are your hopes related to improving your health through exercise?" (Desire) or "What strengths do you have that could help you overcome this challenge with exercise?" (Ability).
+* **Prioritizing Change Talk over Sustain Talk:** While acknowledging sustain talk is important, consciously guide the conversation back to change talk after acknowledging resistance.  For example, after reflecting "So the thought of exercise is unpleasant," the therapist could follow up with "And despite that unpleasant feeling, you still see reasons why it's important to you?" to pivot back to change talk.
+* **Exploring Values and Discrepancy:**  Explicitly explore the client's values related to health, well-being, and quality of life.  Help the client connect exercise to these values to increase intrinsic motivation.  Also, continue to explore the discrepancy between the client's values/goals and their current behavior.
+* **Eliciting Confidence/Optimism:**  While importance is explored, there's less focus on confidence.  Questions like "What makes you think you *could* make a change in your exercise habits, even a small one?" could be helpful to build self-efficacy.
+
+**In summary,** the therapist in this transcript demonstrates some foundational MI skills in attending to change talk, but there are significant opportunities to more actively and strategically cultivate and deepen change talk to potentially achieve a higher score on this MITI global rating.**This feedback is intended to be supportive and aimed at helping the therapist further develop their MI skills.**

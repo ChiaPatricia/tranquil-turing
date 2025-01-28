@@ -1,0 +1,56 @@
+Sheet Number: 16
+Prompt Number: 3
+==================================================
+Based on the transcript provided and the MITI Global Scores for Partnership, I would give this interaction a **global score of 1 for Partnership.**
+
+Here's my feedback, explaining why and suggesting areas for improvement:
+
+**Feedback on Partnership Global Score:**
+
+This interaction scores a **1 for Partnership**.  According to the MITI guidelines, a score of 1 indicates that the "Clinician actively assumes the expert role for the majority of the interaction with the client. Collaboration or partnership is absent."  This accurately describes the dynamic in this transcript.
+
+**Here's why this interaction scores a 1, with examples from the transcript:**
+
+* **Expert Role Dominance:** From the very beginning, the provider (Donna) positions herself as the expert and authority figure.  She immediately tells Mike "exactly, if you want, why you are here" and proceeds to explain the situation based on his file and employer policies.  This sets a tone where Donna is in control and dictates the purpose of the conversation, rather than exploring Mike's understanding or perspective.
+    * **Example:** "Well, I’ll tell you exactly, if you want, why you are here. ... Because I can look at your file and you failed your drug test and your employer is one of our clients, and whenever someone fails the drug test, they end up coming here so that we can hopefully help you keep your job."
+
+* **Dismissing Client's Perspective and Feelings:**  When Mike expresses frustration and questions the fairness of the drug testing, Donna acknowledges hearing this "a lot" but immediately dismisses his concerns as "just not the case" and reiterates the company policy. This minimizes Mike's feelings and perspective, shutting down any potential for collaboration on his concerns.
+    * **Example:**
+        * **Mike:** "Well I, you know, get a little frustrated that I have to take a drug test off a simple mistake at work. And you know, there is no proof that I did anything wrong at work. I don’t see why I should have to be here for stuff I do on my own time."
+        * **Donna:** "Yeah I hear that a lot; I mean that’s the way a lot of people feel. But the bottom line is ... that’s the policies and procedures of your workplace and you know, if you want to ... they require that..."
+
+* **Righting Reflex is Prominent:** Donna frequently engages in the "righting reflex," attempting to correct Mike's perceptions about marijuana use and its impact. She emphasizes the negative consequences and tries to convince him of her expert viewpoint. This creates resistance and defensiveness in Mike, rather than fostering collaboration.
+    * **Examples:**
+        * "Well, you know that is something, when somebody is impaired, that ... and marijuana is particularly bad for that. And it looks like that is what you failed on your drug test, was the marijuana. And you know that is particularly bad for that. It makes those mistakes a lot more likely to happen."
+        * "Yeah, but it stays in your system, you know. That’s the bottom line here too; it stays in your system. So, and it really doesn’t affect you ... I know you don’t think it affects you that much, and you’re not smoking that much, but you know, it’s still a drug and it still affects you."
+        * "Well, you know in this case you just, you don’t really have a choice if you want to keep your job. It’s just the way the program is set up. And we also know that that’s what helps people get off of it, because clearly you would have given it up already if you weren’t having some serious problems with it. So, you know, you would have already given it up."
+
+* **Prescribing and Directing:** Donna quickly moves to prescribing the program requirements (agreement, meetings, intake) without exploring Mike's own goals, values, or understanding of the situation.  She dictates what needs to be done, leaving Mike feeling like he has "no choice."
+    * **Example:** "Well, I’ll tell you what the requirements are. You know we have a program that is designed specifically for this... First of all, you have to sign an agreement that you won’t smoke any pot... You need to be able to come here twice a week... we also require that you go to meetings..."
+
+* **Lack of Negotiation and Client Input:**  When Mike expresses discomfort with NA meetings, Donna immediately dismisses his concern and states "you just, you don’t really have a choice." There is no attempt to understand his discomfort, explore alternatives, or negotiate a solution that might be more acceptable to him.
+    * **Example:**
+        * **Mike:** "You know I had a friend who had to go through AA stuff due to an arrest, and he had me tag along once just to show me what he had to do every week, and I don’t feel comfortable going to those meetings."
+        * **Donna:** "Well, you know in this case you just, you don’t really have a choice if you want to keep your job. It’s just the way the program is set up."
+
+**Suggestions for Improvement:**
+
+To improve Partnership in future interactions, consider the following:
+
+* **Shift from Expert to Partner:**  Actively work to reduce the expert role. Instead of telling Mike *why* he is there and *what* he needs to do, start by exploring *his* understanding of the situation and *his* perspective.
+* **Elicit Client's Perspective:**  Ask open-ended questions to understand Mike's thoughts, feelings, and values related to his job, his marijuana use, and the situation he is in.  Show genuine curiosity about his experience.
+    * **Instead of:** "Well, I’ll tell you exactly, if you want, why you are here..."
+    * **Try:** "Mike, it sounds like you have some questions about why you're here today.  What are your thoughts about all of this?" or "Help me understand your perspective on what's been happening at work and with the drug test."
+
+* **Reduce Righting Reflex:** Resist the urge to correct or persuade Mike about the negative aspects of marijuana. Instead, focus on understanding his own reasons for his behavior and his own perceptions of the situation.  Reflect back his statements to ensure you understand him correctly.
+    * **Instead of:** "Well, you know that is something, when somebody is impaired, that ... and marijuana is particularly bad for that."
+    * **Try:**  If Mike says "I’ve never smoked marijuana at work or before work...", reflect back: "So, it sounds like you're clear that your marijuana use is separate from your work life." (and then explore further from his perspective).
+
+* **Explore Client's Agenda and Goals:**  Early in the conversation, ask Mike about what *he* wants to get out of the session or what is important to him.  Negotiate the agenda together.
+    * **Try:** "Before we go further, what would be most helpful for you to talk about today?" or "What are your priorities for our conversation?"
+
+* **Collaborate on Solutions:**  Instead of prescribing solutions, explore options *with* Mike.  Ask him about his ideas and involve him in problem-solving.
+    * **Instead of:** "Well, I’ll tell you what the requirements are..."
+    * **Try:** "Given the situation with your job, what are some of your thoughts about how you want to move forward?" or "What kind of support or resources do you think might be helpful for you right now?"
+
+By focusing on these areas, you can significantly increase the level of partnership in your interactions and move towards a more collaborative and client-centered approach, which is central to Motivational Interviewing.
