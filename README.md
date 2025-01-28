@@ -109,11 +109,13 @@ We welcome contributions that align with our mission of improving mental healthc
 This project is licensed under the [Apache License](http://www.apache.org/licenses/LICENSE-2.0
 ).
 
+## References:
+Moyers, T.B., Manuel, J.K., & Ernst, D. (2015). Motivational Interviewing Treatment Integrity Coding Manual 4.2.1 (Unpublished manual) 
+
+
 ---
 
 *Developed with ❤️ for the global mental health community*
 
-*Part of the MEXA Hackathon 2025 - Transforming Healthcare Through AI*
+*Part of the MEXA Hackathon 2025 - Mental Health & AI: Intervention*
 
-## References:
-Moyers, T.B., Manuel, J.K., & Ernst, D. (2015). Motivational Interviewing Treatment Integrity Coding Manual 4.2.1 (Unpublished manual) 
