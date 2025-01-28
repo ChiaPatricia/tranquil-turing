@@ -128,7 +128,7 @@ def process_transcripts(all_sheets: Dict[str, pd.DataFrame], prompts: List[str])
     
     system_prompt = prompts[0]
     
-    # Process sheets 1 through 20
+    # Process sheets 1 through 20 - !! This is hard-coded, which is not great !!
     for sheet_num in range(1, 21):
         transcript = get_selected_columns(all_sheets, str(sheet_num))
         
