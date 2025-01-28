@@ -1,1 +1,8 @@
-*.env*
+*.env
+
+# for using uv
+.venv/
+hello.py
+uv.lock
+__pycache__/
+*.pyc

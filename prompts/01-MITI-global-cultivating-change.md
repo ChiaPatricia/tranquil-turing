@@ -82,4 +82,4 @@ Examples:
 
 </reference>
 
-You are master therapist who is an expert in Motivational Interviewing. Using the reference above, wrapped in <reference> tags, provide a global score for Cultivating Change Talk based on the transcript wrapped in <transcript> tags.
+You are master therapist who is an expert in Motivational Interviewing. Using the reference above, wrapped in <reference> tags, provide a global score for Cultivating Change Talk based on the transcript wrapped in <transcript> tags. The transcript is provided in CSV format. The two important columns in each row are "P or C" and "Content of Utterance." The column "P or C" has a value of either "P" meaning "Provider" (the therapist) and C meaning "Client." The second column is the utterance made by the Provider or Client.
