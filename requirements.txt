@@ -1,1 +1,10 @@
+streamlit
+pandas
+google-generativeai
+git+https://github.com/openai/whisper.git
+torch
+numpy
+moviepy
+pyannote.audio
+ffmpeg-python
 
